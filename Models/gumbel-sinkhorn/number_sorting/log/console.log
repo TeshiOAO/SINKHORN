@@ -1,0 +1,2523 @@
+INFO:NumberSorting:Namespace(tau=17.5, n_sink_iter=50, n_samples=15, n_numbers=64, train_seed=7, num_workers=8, lr=0.1, batch_size=1, epochs=100, hid_c=128, out_dir='log')
+INFO:NumberSorting:0 epoch training loss nan
+INFO:NumberSorting:1 epoch training loss nan
+INFO:NumberSorting:2 epoch training loss nan
+INFO:NumberSorting:3 epoch training loss nan
+INFO:NumberSorting:4 epoch training loss nan
+INFO:NumberSorting:5 epoch training loss nan
+INFO:NumberSorting:6 epoch training loss nan
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=5, num_workers=8, lr=0.1, batch_size=8, epochs=100, hid_c=128, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 401.863403
+INFO:NumberSorting:1 epoch training loss 432.855530
+INFO:NumberSorting:2 epoch training loss 361.551147
+INFO:NumberSorting:3 epoch training loss 405.216248
+INFO:NumberSorting:4 epoch training loss 408.036377
+INFO:NumberSorting:5 epoch training loss 341.303802
+INFO:NumberSorting:6 epoch training loss 468.411285
+INFO:NumberSorting:7 epoch training loss 423.713043
+INFO:NumberSorting:8 epoch training loss 389.298218
+INFO:NumberSorting:9 epoch training loss 395.927155
+INFO:NumberSorting:10 epoch training loss 405.149292
+INFO:NumberSorting:11 epoch training loss 317.004150
+INFO:NumberSorting:12 epoch training loss 346.185516
+INFO:NumberSorting:13 epoch training loss 425.468811
+INFO:NumberSorting:14 epoch training loss 284.917633
+INFO:NumberSorting:15 epoch training loss 335.904633
+INFO:NumberSorting:16 epoch training loss 432.057678
+INFO:NumberSorting:17 epoch training loss 391.772888
+INFO:NumberSorting:18 epoch training loss 357.817810
+INFO:NumberSorting:19 epoch training loss 434.339355
+INFO:NumberSorting:20 epoch training loss 352.796448
+INFO:NumberSorting:21 epoch training loss 381.270355
+INFO:NumberSorting:22 epoch training loss 437.674774
+INFO:NumberSorting:23 epoch training loss 349.622467
+INFO:NumberSorting:24 epoch training loss 476.293579
+INFO:NumberSorting:25 epoch training loss 378.057343
+INFO:NumberSorting:26 epoch training loss 402.557098
+INFO:NumberSorting:27 epoch training loss 379.075073
+INFO:NumberSorting:28 epoch training loss 403.564514
+INFO:NumberSorting:29 epoch training loss 413.382233
+INFO:NumberSorting:30 epoch training loss 426.803772
+INFO:NumberSorting:31 epoch training loss 415.773071
+INFO:NumberSorting:32 epoch training loss 410.188812
+INFO:NumberSorting:33 epoch training loss 379.492920
+INFO:NumberSorting:34 epoch training loss 354.167603
+INFO:NumberSorting:35 epoch training loss 403.285889
+INFO:NumberSorting:36 epoch training loss 418.455414
+INFO:NumberSorting:37 epoch training loss 373.404755
+INFO:NumberSorting:38 epoch training loss 397.354065
+INFO:NumberSorting:39 epoch training loss 383.516785
+INFO:NumberSorting:40 epoch training loss 404.716614
+INFO:NumberSorting:41 epoch training loss 368.103607
+INFO:NumberSorting:42 epoch training loss 333.319794
+INFO:NumberSorting:43 epoch training loss 406.761627
+INFO:NumberSorting:44 epoch training loss 432.404083
+INFO:NumberSorting:45 epoch training loss 401.417908
+INFO:NumberSorting:46 epoch training loss 402.277740
+INFO:NumberSorting:47 epoch training loss 421.239166
+INFO:NumberSorting:48 epoch training loss 420.436340
+INFO:NumberSorting:49 epoch training loss 366.118134
+INFO:NumberSorting:50 epoch training loss 412.530151
+INFO:NumberSorting:51 epoch training loss 424.264771
+INFO:NumberSorting:52 epoch training loss 385.493652
+INFO:NumberSorting:53 epoch training loss 479.669495
+INFO:NumberSorting:54 epoch training loss 398.129517
+INFO:NumberSorting:55 epoch training loss 350.296051
+INFO:NumberSorting:56 epoch training loss 371.826630
+INFO:NumberSorting:57 epoch training loss 363.483643
+INFO:NumberSorting:58 epoch training loss 397.828064
+INFO:NumberSorting:59 epoch training loss 403.821899
+INFO:NumberSorting:60 epoch training loss 386.370453
+INFO:NumberSorting:61 epoch training loss 358.312469
+INFO:NumberSorting:62 epoch training loss 341.603638
+INFO:NumberSorting:63 epoch training loss 444.073395
+INFO:NumberSorting:64 epoch training loss 412.190308
+INFO:NumberSorting:65 epoch training loss 395.232758
+INFO:NumberSorting:66 epoch training loss 331.533386
+INFO:NumberSorting:67 epoch training loss 384.820251
+INFO:NumberSorting:68 epoch training loss 447.271729
+INFO:NumberSorting:69 epoch training loss 392.442535
+INFO:NumberSorting:70 epoch training loss 364.290985
+INFO:NumberSorting:71 epoch training loss 436.289398
+INFO:NumberSorting:72 epoch training loss 368.301178
+INFO:NumberSorting:73 epoch training loss 363.126282
+INFO:NumberSorting:74 epoch training loss 334.315338
+INFO:NumberSorting:75 epoch training loss 356.111816
+INFO:NumberSorting:76 epoch training loss 396.661774
+INFO:NumberSorting:77 epoch training loss 397.558350
+INFO:NumberSorting:78 epoch training loss 376.033600
+INFO:NumberSorting:79 epoch training loss 333.682159
+INFO:NumberSorting:80 epoch training loss 379.349670
+INFO:NumberSorting:81 epoch training loss 423.139893
+INFO:NumberSorting:82 epoch training loss 414.184326
+INFO:NumberSorting:83 epoch training loss 366.052277
+INFO:NumberSorting:84 epoch training loss 361.494629
+INFO:NumberSorting:85 epoch training loss 466.112823
+INFO:NumberSorting:86 epoch training loss 352.660706
+INFO:NumberSorting:87 epoch training loss 381.569061
+INFO:NumberSorting:88 epoch training loss 401.954254
+INFO:NumberSorting:89 epoch training loss 369.364105
+INFO:NumberSorting:90 epoch training loss 388.728363
+INFO:NumberSorting:91 epoch training loss 398.205505
+INFO:NumberSorting:92 epoch training loss 400.004272
+INFO:NumberSorting:93 epoch training loss 384.682129
+INFO:NumberSorting:94 epoch training loss 393.664734
+INFO:NumberSorting:95 epoch training loss 433.127350
+INFO:NumberSorting:96 epoch training loss 387.737793
+INFO:NumberSorting:97 epoch training loss 352.108154
+INFO:NumberSorting:98 epoch training loss 300.918640
+INFO:NumberSorting:99 epoch training loss 356.536194
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.968750
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=50, n_samples=5, n_numbers=64, train_seed=5, num_workers=8, lr=0.1, batch_size=8, epochs=100, hid_c=64, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 419.113525
+INFO:NumberSorting:1 epoch training loss 341.174622
+INFO:NumberSorting:2 epoch training loss 353.725830
+INFO:NumberSorting:3 epoch training loss 385.418427
+INFO:NumberSorting:4 epoch training loss 388.038879
+INFO:NumberSorting:5 epoch training loss 426.875580
+INFO:NumberSorting:6 epoch training loss 418.785797
+INFO:NumberSorting:7 epoch training loss 443.293121
+INFO:NumberSorting:8 epoch training loss 433.248444
+INFO:NumberSorting:9 epoch training loss 350.486725
+INFO:NumberSorting:10 epoch training loss 330.574341
+INFO:NumberSorting:11 epoch training loss 404.207886
+INFO:NumberSorting:12 epoch training loss 343.334137
+INFO:NumberSorting:13 epoch training loss 370.490723
+INFO:NumberSorting:14 epoch training loss 457.929138
+INFO:NumberSorting:15 epoch training loss 407.906067
+INFO:NumberSorting:16 epoch training loss 391.419922
+INFO:NumberSorting:17 epoch training loss 331.644287
+INFO:NumberSorting:18 epoch training loss 423.646057
+INFO:NumberSorting:19 epoch training loss 453.310638
+INFO:NumberSorting:20 epoch training loss 358.672729
+INFO:NumberSorting:21 epoch training loss 374.675232
+INFO:NumberSorting:22 epoch training loss 465.844727
+INFO:NumberSorting:23 epoch training loss 404.330780
+INFO:NumberSorting:24 epoch training loss 390.316406
+INFO:NumberSorting:25 epoch training loss 394.904541
+INFO:NumberSorting:26 epoch training loss 390.267212
+INFO:NumberSorting:27 epoch training loss 350.058258
+INFO:NumberSorting:28 epoch training loss 421.606506
+INFO:NumberSorting:29 epoch training loss 381.908752
+INFO:NumberSorting:30 epoch training loss 350.116028
+INFO:NumberSorting:31 epoch training loss 380.162415
+INFO:NumberSorting:32 epoch training loss 378.062500
+INFO:NumberSorting:33 epoch training loss 417.327148
+INFO:NumberSorting:34 epoch training loss 460.835541
+INFO:NumberSorting:35 epoch training loss 363.129944
+INFO:NumberSorting:36 epoch training loss 288.342560
+INFO:NumberSorting:37 epoch training loss 384.443451
+INFO:NumberSorting:38 epoch training loss 423.241943
+INFO:NumberSorting:39 epoch training loss 364.371979
+INFO:NumberSorting:40 epoch training loss 439.030029
+INFO:NumberSorting:41 epoch training loss 410.351501
+INFO:NumberSorting:42 epoch training loss 329.756073
+INFO:NumberSorting:43 epoch training loss 410.886353
+INFO:NumberSorting:44 epoch training loss 457.358765
+INFO:NumberSorting:45 epoch training loss 384.727966
+INFO:NumberSorting:46 epoch training loss 377.290955
+INFO:NumberSorting:47 epoch training loss 421.715637
+INFO:NumberSorting:48 epoch training loss 422.391266
+INFO:NumberSorting:49 epoch training loss 397.617798
+INFO:NumberSorting:50 epoch training loss 391.641907
+INFO:NumberSorting:51 epoch training loss 419.034302
+INFO:NumberSorting:52 epoch training loss 410.311615
+INFO:NumberSorting:53 epoch training loss 371.846497
+INFO:NumberSorting:54 epoch training loss 399.934296
+INFO:NumberSorting:55 epoch training loss 413.730591
+INFO:NumberSorting:56 epoch training loss 378.784454
+INFO:NumberSorting:57 epoch training loss 416.595154
+INFO:NumberSorting:58 epoch training loss 385.517334
+INFO:NumberSorting:59 epoch training loss 465.954041
+INFO:NumberSorting:60 epoch training loss 379.471130
+INFO:NumberSorting:61 epoch training loss 395.146210
+INFO:NumberSorting:62 epoch training loss 409.331970
+INFO:NumberSorting:63 epoch training loss 393.721436
+INFO:NumberSorting:64 epoch training loss 419.041626
+INFO:NumberSorting:65 epoch training loss 453.767822
+INFO:NumberSorting:66 epoch training loss 424.767456
+INFO:NumberSorting:67 epoch training loss 397.164368
+INFO:NumberSorting:68 epoch training loss 386.677551
+INFO:NumberSorting:69 epoch training loss 450.799011
+INFO:NumberSorting:70 epoch training loss 426.998657
+INFO:NumberSorting:71 epoch training loss 376.222717
+INFO:NumberSorting:72 epoch training loss 408.297058
+INFO:NumberSorting:73 epoch training loss 334.550964
+INFO:NumberSorting:74 epoch training loss 373.257935
+INFO:NumberSorting:75 epoch training loss 393.219574
+INFO:NumberSorting:76 epoch training loss 383.193726
+INFO:NumberSorting:77 epoch training loss 377.231689
+INFO:NumberSorting:78 epoch training loss 396.878357
+INFO:NumberSorting:79 epoch training loss 363.278412
+INFO:NumberSorting:80 epoch training loss 318.622192
+INFO:NumberSorting:81 epoch training loss 411.748077
+INFO:NumberSorting:82 epoch training loss 397.318604
+INFO:NumberSorting:83 epoch training loss 357.365051
+INFO:NumberSorting:84 epoch training loss 387.354919
+INFO:NumberSorting:85 epoch training loss 343.267334
+INFO:NumberSorting:86 epoch training loss 433.984894
+INFO:NumberSorting:87 epoch training loss 432.808624
+INFO:NumberSorting:88 epoch training loss 376.081940
+INFO:NumberSorting:89 epoch training loss 381.026306
+INFO:NumberSorting:90 epoch training loss 430.062103
+INFO:NumberSorting:91 epoch training loss 408.472473
+INFO:NumberSorting:92 epoch training loss 426.538696
+INFO:NumberSorting:93 epoch training loss 401.491638
+INFO:NumberSorting:94 epoch training loss 359.995392
+INFO:NumberSorting:95 epoch training loss 423.733582
+INFO:NumberSorting:96 epoch training loss 429.112518
+INFO:NumberSorting:97 epoch training loss 393.793915
+INFO:NumberSorting:98 epoch training loss 394.662476
+INFO:NumberSorting:99 epoch training loss 398.346985
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.953125
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=15.0, n_sink_iter=20, n_samples=15, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=12, epochs=300, hid_c=64, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 1310.903198
+INFO:NumberSorting:1 epoch training loss 1272.014771
+INFO:NumberSorting:2 epoch training loss 1120.752686
+INFO:NumberSorting:3 epoch training loss 1185.976440
+INFO:NumberSorting:4 epoch training loss 1158.674072
+INFO:NumberSorting:5 epoch training loss 1116.337646
+INFO:NumberSorting:6 epoch training loss 1180.935425
+INFO:NumberSorting:7 epoch training loss 1093.905151
+INFO:NumberSorting:8 epoch training loss 1229.822754
+INFO:NumberSorting:9 epoch training loss 1186.413574
+INFO:NumberSorting:10 epoch training loss 1245.835815
+INFO:NumberSorting:11 epoch training loss 1070.761841
+INFO:NumberSorting:12 epoch training loss 1248.759644
+INFO:NumberSorting:13 epoch training loss 1248.587402
+INFO:NumberSorting:14 epoch training loss 1076.528442
+INFO:NumberSorting:15 epoch training loss 1156.915894
+INFO:NumberSorting:16 epoch training loss 1054.423340
+INFO:NumberSorting:17 epoch training loss 1129.731445
+INFO:NumberSorting:18 epoch training loss 1276.500854
+INFO:NumberSorting:19 epoch training loss 1247.424194
+INFO:NumberSorting:20 epoch training loss 1238.815063
+INFO:NumberSorting:21 epoch training loss 1184.215942
+INFO:NumberSorting:22 epoch training loss 1227.187500
+INFO:NumberSorting:23 epoch training loss 1066.493286
+INFO:NumberSorting:24 epoch training loss 1217.429077
+INFO:NumberSorting:25 epoch training loss 1043.713501
+INFO:NumberSorting:26 epoch training loss 1212.544800
+INFO:NumberSorting:27 epoch training loss 1119.910034
+INFO:NumberSorting:28 epoch training loss 1120.277954
+INFO:NumberSorting:29 epoch training loss 1177.949463
+INFO:NumberSorting:30 epoch training loss 1155.135742
+INFO:NumberSorting:31 epoch training loss 1376.766602
+INFO:NumberSorting:32 epoch training loss 1151.387695
+INFO:NumberSorting:33 epoch training loss 1157.739624
+INFO:NumberSorting:34 epoch training loss 1129.840820
+INFO:NumberSorting:35 epoch training loss 1285.799438
+INFO:NumberSorting:36 epoch training loss 1244.038940
+INFO:NumberSorting:37 epoch training loss 1128.084106
+INFO:NumberSorting:38 epoch training loss 1207.189209
+INFO:NumberSorting:39 epoch training loss 1220.031982
+INFO:NumberSorting:40 epoch training loss 1170.797729
+INFO:NumberSorting:41 epoch training loss 1176.703613
+INFO:NumberSorting:42 epoch training loss 1150.920044
+INFO:NumberSorting:43 epoch training loss 1067.069336
+INFO:NumberSorting:44 epoch training loss 1125.609131
+INFO:NumberSorting:45 epoch training loss 1134.072021
+INFO:NumberSorting:46 epoch training loss 1096.682129
+INFO:NumberSorting:47 epoch training loss 1111.869263
+INFO:NumberSorting:48 epoch training loss 1099.119751
+INFO:NumberSorting:49 epoch training loss 1185.451294
+INFO:NumberSorting:50 epoch training loss 1159.499512
+INFO:NumberSorting:51 epoch training loss 1365.206909
+INFO:NumberSorting:52 epoch training loss 1123.786621
+INFO:NumberSorting:53 epoch training loss 1185.803467
+INFO:NumberSorting:54 epoch training loss 1179.115234
+INFO:NumberSorting:55 epoch training loss 1242.589600
+INFO:NumberSorting:56 epoch training loss 1246.518555
+INFO:NumberSorting:57 epoch training loss 1176.011353
+INFO:NumberSorting:58 epoch training loss 1061.255981
+INFO:NumberSorting:59 epoch training loss 1131.883789
+INFO:NumberSorting:60 epoch training loss 1150.423950
+INFO:NumberSorting:61 epoch training loss 1102.750977
+INFO:NumberSorting:62 epoch training loss 1094.134766
+INFO:NumberSorting:63 epoch training loss 1230.190796
+INFO:NumberSorting:64 epoch training loss 1183.838257
+INFO:NumberSorting:65 epoch training loss 1044.804199
+INFO:NumberSorting:66 epoch training loss 1250.517822
+INFO:NumberSorting:67 epoch training loss 1027.868286
+INFO:NumberSorting:68 epoch training loss 1216.598877
+INFO:NumberSorting:69 epoch training loss 1260.075073
+INFO:NumberSorting:70 epoch training loss 1298.443115
+INFO:NumberSorting:71 epoch training loss 1272.490967
+INFO:NumberSorting:72 epoch training loss 1180.908691
+INFO:NumberSorting:73 epoch training loss 1203.079102
+INFO:NumberSorting:74 epoch training loss 1113.022583
+INFO:NumberSorting:75 epoch training loss 1243.318237
+INFO:NumberSorting:76 epoch training loss 1232.037964
+INFO:NumberSorting:77 epoch training loss 1139.369019
+INFO:NumberSorting:78 epoch training loss 964.342529
+INFO:NumberSorting:79 epoch training loss 1140.774292
+INFO:NumberSorting:80 epoch training loss 1333.952271
+INFO:NumberSorting:81 epoch training loss 1223.629517
+INFO:NumberSorting:82 epoch training loss 1392.308105
+INFO:NumberSorting:83 epoch training loss 1127.606934
+INFO:NumberSorting:84 epoch training loss 1266.479370
+INFO:NumberSorting:85 epoch training loss 1043.628784
+INFO:NumberSorting:86 epoch training loss 1137.114990
+INFO:NumberSorting:87 epoch training loss 1111.553101
+INFO:NumberSorting:88 epoch training loss 1074.239258
+INFO:NumberSorting:89 epoch training loss 1161.545166
+INFO:NumberSorting:90 epoch training loss 1317.296631
+INFO:NumberSorting:91 epoch training loss 1143.564087
+INFO:NumberSorting:92 epoch training loss 1061.333008
+INFO:NumberSorting:93 epoch training loss 1282.518066
+INFO:NumberSorting:94 epoch training loss 1283.278687
+INFO:NumberSorting:95 epoch training loss 1006.529419
+INFO:NumberSorting:96 epoch training loss 1187.784424
+INFO:NumberSorting:97 epoch training loss 1148.421265
+INFO:NumberSorting:98 epoch training loss 1100.001831
+INFO:NumberSorting:99 epoch training loss 1304.695312
+INFO:NumberSorting:100 epoch training loss 1192.516968
+INFO:NumberSorting:101 epoch training loss 1158.628174
+INFO:NumberSorting:102 epoch training loss 1233.326416
+INFO:NumberSorting:103 epoch training loss 1200.873901
+INFO:NumberSorting:104 epoch training loss 1139.467163
+INFO:NumberSorting:105 epoch training loss 1227.116211
+INFO:NumberSorting:106 epoch training loss 1053.669556
+INFO:NumberSorting:107 epoch training loss 1147.666382
+INFO:NumberSorting:108 epoch training loss 1189.423340
+INFO:NumberSorting:109 epoch training loss 1045.689575
+INFO:NumberSorting:110 epoch training loss 1308.792847
+INFO:NumberSorting:111 epoch training loss 1032.391846
+INFO:NumberSorting:112 epoch training loss 1286.794556
+INFO:NumberSorting:113 epoch training loss 1103.709839
+INFO:NumberSorting:114 epoch training loss 1182.524414
+INFO:NumberSorting:115 epoch training loss 1202.533203
+INFO:NumberSorting:116 epoch training loss 1133.158447
+INFO:NumberSorting:117 epoch training loss 1167.541748
+INFO:NumberSorting:118 epoch training loss 1188.732544
+INFO:NumberSorting:119 epoch training loss 1198.179688
+INFO:NumberSorting:120 epoch training loss 1156.905884
+INFO:NumberSorting:121 epoch training loss 1213.777100
+INFO:NumberSorting:122 epoch training loss 1157.559814
+INFO:NumberSorting:123 epoch training loss 1076.267822
+INFO:NumberSorting:124 epoch training loss 1254.452393
+INFO:NumberSorting:125 epoch training loss 1145.974854
+INFO:NumberSorting:126 epoch training loss 1004.288147
+INFO:NumberSorting:127 epoch training loss 1115.818604
+INFO:NumberSorting:128 epoch training loss 1075.628784
+INFO:NumberSorting:129 epoch training loss 1070.180420
+INFO:NumberSorting:130 epoch training loss 1126.104858
+INFO:NumberSorting:131 epoch training loss 1036.176880
+INFO:NumberSorting:132 epoch training loss 1249.269043
+INFO:NumberSorting:133 epoch training loss 1057.491699
+INFO:NumberSorting:134 epoch training loss 1361.490723
+INFO:NumberSorting:135 epoch training loss 1102.100220
+INFO:NumberSorting:136 epoch training loss 1180.915283
+INFO:NumberSorting:137 epoch training loss 1284.117432
+INFO:NumberSorting:138 epoch training loss 1293.081665
+INFO:NumberSorting:139 epoch training loss 1105.467285
+INFO:NumberSorting:140 epoch training loss 1199.924072
+INFO:NumberSorting:141 epoch training loss 1144.057617
+INFO:NumberSorting:142 epoch training loss 1152.231201
+INFO:NumberSorting:143 epoch training loss 1293.850342
+INFO:NumberSorting:144 epoch training loss 1307.411499
+INFO:NumberSorting:145 epoch training loss 1133.222778
+INFO:NumberSorting:146 epoch training loss 1293.342407
+INFO:NumberSorting:147 epoch training loss 1217.499756
+INFO:NumberSorting:148 epoch training loss 1247.989746
+INFO:NumberSorting:149 epoch training loss 1113.084473
+INFO:NumberSorting:150 epoch training loss 1162.254517
+INFO:NumberSorting:151 epoch training loss 1209.564819
+INFO:NumberSorting:152 epoch training loss 1106.745361
+INFO:NumberSorting:153 epoch training loss 1140.243530
+INFO:NumberSorting:154 epoch training loss 1329.609009
+INFO:NumberSorting:155 epoch training loss 1205.142822
+INFO:NumberSorting:156 epoch training loss 1169.490723
+INFO:NumberSorting:157 epoch training loss 1067.172485
+INFO:NumberSorting:158 epoch training loss 1359.146362
+INFO:NumberSorting:159 epoch training loss 1100.841675
+INFO:NumberSorting:160 epoch training loss 1259.767944
+INFO:NumberSorting:161 epoch training loss 1198.196777
+INFO:NumberSorting:162 epoch training loss 1229.113037
+INFO:NumberSorting:163 epoch training loss 1196.200928
+INFO:NumberSorting:164 epoch training loss 1262.149658
+INFO:NumberSorting:165 epoch training loss 1212.734863
+INFO:NumberSorting:166 epoch training loss 1080.686279
+INFO:NumberSorting:167 epoch training loss 1157.751953
+INFO:NumberSorting:168 epoch training loss 1166.110962
+INFO:NumberSorting:169 epoch training loss 1133.190796
+INFO:NumberSorting:170 epoch training loss 1116.052734
+INFO:NumberSorting:171 epoch training loss 1210.849243
+INFO:NumberSorting:172 epoch training loss 1238.820312
+INFO:NumberSorting:173 epoch training loss 1120.463135
+INFO:NumberSorting:174 epoch training loss 1292.335571
+INFO:NumberSorting:175 epoch training loss 1102.697998
+INFO:NumberSorting:176 epoch training loss 1166.565674
+INFO:NumberSorting:177 epoch training loss 1030.563354
+INFO:NumberSorting:178 epoch training loss 1190.181396
+INFO:NumberSorting:179 epoch training loss 1188.595459
+INFO:NumberSorting:180 epoch training loss 982.904419
+INFO:NumberSorting:181 epoch training loss 1201.611206
+INFO:NumberSorting:182 epoch training loss 1245.307495
+INFO:NumberSorting:183 epoch training loss 1109.176147
+INFO:NumberSorting:184 epoch training loss 1265.776855
+INFO:NumberSorting:185 epoch training loss 1191.845337
+INFO:NumberSorting:186 epoch training loss 1320.133423
+INFO:NumberSorting:187 epoch training loss 1269.303589
+INFO:NumberSorting:188 epoch training loss 1287.078491
+INFO:NumberSorting:189 epoch training loss 1160.939087
+INFO:NumberSorting:190 epoch training loss 1317.441895
+INFO:NumberSorting:191 epoch training loss 1166.835449
+INFO:NumberSorting:192 epoch training loss 1260.695068
+INFO:NumberSorting:193 epoch training loss 1172.705811
+INFO:NumberSorting:194 epoch training loss 1093.334473
+INFO:NumberSorting:195 epoch training loss 1069.667114
+INFO:NumberSorting:196 epoch training loss 1172.450195
+INFO:NumberSorting:197 epoch training loss 1220.313965
+INFO:NumberSorting:198 epoch training loss 1262.276001
+INFO:NumberSorting:199 epoch training loss 1188.802979
+INFO:NumberSorting:200 epoch training loss 1150.486084
+INFO:NumberSorting:201 epoch training loss 1139.596069
+INFO:NumberSorting:202 epoch training loss 1184.707642
+INFO:NumberSorting:203 epoch training loss 1186.944580
+INFO:NumberSorting:204 epoch training loss 1194.429443
+INFO:NumberSorting:205 epoch training loss 1390.978760
+INFO:NumberSorting:206 epoch training loss 1145.581299
+INFO:NumberSorting:207 epoch training loss 1229.537231
+INFO:NumberSorting:208 epoch training loss 1149.281250
+INFO:NumberSorting:209 epoch training loss 1241.017456
+INFO:NumberSorting:210 epoch training loss 1200.996216
+INFO:NumberSorting:211 epoch training loss 1338.622559
+INFO:NumberSorting:212 epoch training loss 1142.346680
+INFO:NumberSorting:213 epoch training loss 1203.564819
+INFO:NumberSorting:214 epoch training loss 1399.412842
+INFO:NumberSorting:215 epoch training loss 1278.692017
+INFO:NumberSorting:216 epoch training loss 1186.950439
+INFO:NumberSorting:217 epoch training loss 1062.194214
+INFO:NumberSorting:218 epoch training loss 997.838379
+INFO:NumberSorting:219 epoch training loss 1088.478638
+INFO:NumberSorting:220 epoch training loss 1190.699097
+INFO:NumberSorting:221 epoch training loss 1282.719482
+INFO:NumberSorting:222 epoch training loss 1231.780029
+INFO:NumberSorting:223 epoch training loss 1188.024902
+INFO:NumberSorting:224 epoch training loss 1246.308472
+INFO:NumberSorting:225 epoch training loss 1077.623901
+INFO:NumberSorting:226 epoch training loss 1144.739746
+INFO:NumberSorting:227 epoch training loss 1116.695679
+INFO:NumberSorting:228 epoch training loss 1211.126709
+INFO:NumberSorting:229 epoch training loss 1367.536377
+INFO:NumberSorting:230 epoch training loss 1142.875366
+INFO:NumberSorting:231 epoch training loss 1204.473877
+INFO:NumberSorting:232 epoch training loss 1087.665771
+INFO:NumberSorting:233 epoch training loss 1178.923584
+INFO:NumberSorting:234 epoch training loss 1097.294922
+INFO:NumberSorting:235 epoch training loss 1115.793823
+INFO:NumberSorting:236 epoch training loss 1267.118042
+INFO:NumberSorting:237 epoch training loss 1281.068359
+INFO:NumberSorting:238 epoch training loss 1147.307617
+INFO:NumberSorting:239 epoch training loss 1181.312378
+INFO:NumberSorting:240 epoch training loss 1032.336060
+INFO:NumberSorting:241 epoch training loss 1281.172974
+INFO:NumberSorting:242 epoch training loss 1087.628418
+INFO:NumberSorting:243 epoch training loss 1384.210693
+INFO:NumberSorting:244 epoch training loss 1069.846191
+INFO:NumberSorting:245 epoch training loss 1205.386719
+INFO:NumberSorting:246 epoch training loss 1002.012817
+INFO:NumberSorting:247 epoch training loss 1229.623291
+INFO:NumberSorting:248 epoch training loss 1230.772583
+INFO:NumberSorting:249 epoch training loss 1134.840576
+INFO:NumberSorting:250 epoch training loss 1337.361694
+INFO:NumberSorting:251 epoch training loss 1226.845947
+INFO:NumberSorting:252 epoch training loss 1136.215942
+INFO:NumberSorting:253 epoch training loss 1136.089600
+INFO:NumberSorting:254 epoch training loss 1082.864136
+INFO:NumberSorting:255 epoch training loss 1240.335938
+INFO:NumberSorting:256 epoch training loss 1201.608032
+INFO:NumberSorting:257 epoch training loss 1175.413330
+INFO:NumberSorting:258 epoch training loss 1169.689575
+INFO:NumberSorting:259 epoch training loss 1067.832520
+INFO:NumberSorting:260 epoch training loss 1247.597168
+INFO:NumberSorting:261 epoch training loss 1108.074585
+INFO:NumberSorting:262 epoch training loss 1125.432739
+INFO:NumberSorting:263 epoch training loss 1227.033569
+INFO:NumberSorting:264 epoch training loss 1100.576294
+INFO:NumberSorting:265 epoch training loss 1225.240479
+INFO:NumberSorting:266 epoch training loss 1230.806885
+INFO:NumberSorting:267 epoch training loss 1184.684937
+INFO:NumberSorting:268 epoch training loss 1064.354614
+INFO:NumberSorting:269 epoch training loss 1163.005615
+INFO:NumberSorting:270 epoch training loss 1116.397827
+INFO:NumberSorting:271 epoch training loss 944.579224
+INFO:NumberSorting:272 epoch training loss 1202.618652
+INFO:NumberSorting:273 epoch training loss 1124.660767
+INFO:NumberSorting:274 epoch training loss 1156.332153
+INFO:NumberSorting:275 epoch training loss 1147.290283
+INFO:NumberSorting:276 epoch training loss 1385.001343
+INFO:NumberSorting:277 epoch training loss 1212.428589
+INFO:NumberSorting:278 epoch training loss 1187.759277
+INFO:NumberSorting:279 epoch training loss 1083.306885
+INFO:NumberSorting:280 epoch training loss 1049.047363
+INFO:NumberSorting:281 epoch training loss 1165.119507
+INFO:NumberSorting:282 epoch training loss 1139.014404
+INFO:NumberSorting:283 epoch training loss 1006.859253
+INFO:NumberSorting:284 epoch training loss 1122.234619
+INFO:NumberSorting:285 epoch training loss 1157.370117
+INFO:NumberSorting:286 epoch training loss 1186.159912
+INFO:NumberSorting:287 epoch training loss 1134.437500
+INFO:NumberSorting:288 epoch training loss 1158.618530
+INFO:NumberSorting:289 epoch training loss 1235.054810
+INFO:NumberSorting:290 epoch training loss 1238.761108
+INFO:NumberSorting:291 epoch training loss 1141.302002
+INFO:NumberSorting:292 epoch training loss 1175.395264
+INFO:NumberSorting:293 epoch training loss 1080.007324
+INFO:NumberSorting:294 epoch training loss 1209.317261
+INFO:NumberSorting:295 epoch training loss 1111.973877
+INFO:NumberSorting:296 epoch training loss 1203.023560
+INFO:NumberSorting:297 epoch training loss 1054.183228
+INFO:NumberSorting:298 epoch training loss 1169.265503
+INFO:NumberSorting:299 epoch training loss 1261.325439
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=15.0, n_sink_iter=20, n_samples=32, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=12, epochs=100, hid_c=64, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 2692.242432
+INFO:NumberSorting:1 epoch training loss 2491.526123
+INFO:NumberSorting:2 epoch training loss 2329.266357
+INFO:NumberSorting:3 epoch training loss 2379.294434
+INFO:NumberSorting:4 epoch training loss 2691.698486
+INFO:NumberSorting:5 epoch training loss 2509.842773
+INFO:NumberSorting:6 epoch training loss 2512.149414
+INFO:NumberSorting:7 epoch training loss 2476.179443
+INFO:NumberSorting:8 epoch training loss 2299.231689
+INFO:NumberSorting:9 epoch training loss 2794.952637
+INFO:NumberSorting:10 epoch training loss 2485.416992
+INFO:NumberSorting:11 epoch training loss 2317.579102
+INFO:NumberSorting:12 epoch training loss 2559.387207
+INFO:NumberSorting:13 epoch training loss 2172.656250
+INFO:NumberSorting:14 epoch training loss 2518.492920
+INFO:NumberSorting:15 epoch training loss 2186.432129
+INFO:NumberSorting:16 epoch training loss 2718.730957
+INFO:NumberSorting:17 epoch training loss 2469.937012
+INFO:NumberSorting:18 epoch training loss 2399.537354
+INFO:NumberSorting:19 epoch training loss 2829.559326
+INFO:NumberSorting:20 epoch training loss 2783.966797
+INFO:NumberSorting:21 epoch training loss 2416.154541
+INFO:NumberSorting:22 epoch training loss 2382.282227
+INFO:NumberSorting:23 epoch training loss 2236.584229
+INFO:NumberSorting:24 epoch training loss 2499.172607
+INFO:NumberSorting:25 epoch training loss 2461.029785
+INFO:NumberSorting:26 epoch training loss 2638.138916
+INFO:NumberSorting:27 epoch training loss 2695.537842
+INFO:NumberSorting:28 epoch training loss 2421.202148
+INFO:NumberSorting:29 epoch training loss 2704.016357
+INFO:NumberSorting:30 epoch training loss 2082.131592
+INFO:NumberSorting:31 epoch training loss 2428.645508
+INFO:NumberSorting:32 epoch training loss 2587.279297
+INFO:NumberSorting:33 epoch training loss 2549.190430
+INFO:NumberSorting:34 epoch training loss 2735.512207
+INFO:NumberSorting:35 epoch training loss 2603.208008
+INFO:NumberSorting:36 epoch training loss 2213.562012
+INFO:NumberSorting:37 epoch training loss 2340.207764
+INFO:NumberSorting:38 epoch training loss 2686.117188
+INFO:NumberSorting:39 epoch training loss 2579.465332
+INFO:NumberSorting:40 epoch training loss 2518.016846
+INFO:NumberSorting:41 epoch training loss 2500.209473
+INFO:NumberSorting:42 epoch training loss 2294.304443
+INFO:NumberSorting:43 epoch training loss 2398.934570
+INFO:NumberSorting:44 epoch training loss 2161.573975
+INFO:NumberSorting:45 epoch training loss 2520.477539
+INFO:NumberSorting:46 epoch training loss 2511.748047
+INFO:NumberSorting:47 epoch training loss 2375.469727
+INFO:NumberSorting:48 epoch training loss 2272.990479
+INFO:NumberSorting:49 epoch training loss 2201.876709
+INFO:NumberSorting:50 epoch training loss 2270.488770
+INFO:NumberSorting:51 epoch training loss 2336.496582
+INFO:NumberSorting:52 epoch training loss 2371.713379
+INFO:NumberSorting:53 epoch training loss 2293.982910
+INFO:NumberSorting:54 epoch training loss 2258.433105
+INFO:NumberSorting:55 epoch training loss 2646.244629
+INFO:NumberSorting:56 epoch training loss 2428.558594
+INFO:NumberSorting:57 epoch training loss 2641.305420
+INFO:NumberSorting:58 epoch training loss 2459.552490
+INFO:NumberSorting:59 epoch training loss 2625.460449
+INFO:NumberSorting:60 epoch training loss 2477.214844
+INFO:NumberSorting:61 epoch training loss 2560.504883
+INFO:NumberSorting:62 epoch training loss 2612.360840
+INFO:NumberSorting:63 epoch training loss 2422.320557
+INFO:NumberSorting:64 epoch training loss 2262.699707
+INFO:NumberSorting:65 epoch training loss 2289.615234
+INFO:NumberSorting:66 epoch training loss 2714.484619
+INFO:NumberSorting:67 epoch training loss 2633.598633
+INFO:NumberSorting:68 epoch training loss 2384.709473
+INFO:NumberSorting:69 epoch training loss 2253.837402
+INFO:NumberSorting:70 epoch training loss 2651.110107
+INFO:NumberSorting:71 epoch training loss 2497.552246
+INFO:NumberSorting:72 epoch training loss 2675.447510
+INFO:NumberSorting:73 epoch training loss 2711.812256
+INFO:NumberSorting:74 epoch training loss 2408.266846
+INFO:NumberSorting:75 epoch training loss 2404.993164
+INFO:NumberSorting:76 epoch training loss 2569.996338
+INFO:NumberSorting:77 epoch training loss 2747.261719
+INFO:NumberSorting:78 epoch training loss 2578.352539
+INFO:NumberSorting:79 epoch training loss 2270.154297
+INFO:NumberSorting:80 epoch training loss 2704.603027
+INFO:NumberSorting:81 epoch training loss 2370.105713
+INFO:NumberSorting:82 epoch training loss 2392.116699
+INFO:NumberSorting:83 epoch training loss 2571.435791
+INFO:NumberSorting:84 epoch training loss 2997.988281
+INFO:NumberSorting:85 epoch training loss 2479.470947
+INFO:NumberSorting:86 epoch training loss 2676.824219
+INFO:NumberSorting:87 epoch training loss 2447.102295
+INFO:NumberSorting:88 epoch training loss 2404.182861
+INFO:NumberSorting:89 epoch training loss 2456.159668
+INFO:NumberSorting:90 epoch training loss 2581.212158
+INFO:NumberSorting:91 epoch training loss 2662.085938
+INFO:NumberSorting:92 epoch training loss 2128.056641
+INFO:NumberSorting:93 epoch training loss 2623.699951
+INFO:NumberSorting:94 epoch training loss 2426.610107
+INFO:NumberSorting:95 epoch training loss 2233.096924
+INFO:NumberSorting:96 epoch training loss 2331.523926
+INFO:NumberSorting:97 epoch training loss 2423.995850
+INFO:NumberSorting:98 epoch training loss 2427.874023
+INFO:NumberSorting:99 epoch training loss 2538.458252
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=15.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=12, epochs=100, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=12, epochs=100, hid_c=64, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.953125
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=12, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 408.893402
+INFO:NumberSorting:1 epoch training loss 406.092072
+INFO:NumberSorting:2 epoch training loss 383.988098
+INFO:NumberSorting:3 epoch training loss 386.295471
+INFO:NumberSorting:4 epoch training loss 362.221191
+INFO:NumberSorting:5 epoch training loss 409.602631
+INFO:NumberSorting:6 epoch training loss 382.846069
+INFO:NumberSorting:7 epoch training loss 411.215576
+INFO:NumberSorting:8 epoch training loss 392.465363
+INFO:NumberSorting:9 epoch training loss 337.333954
+INFO:NumberSorting:10 epoch training loss 421.847626
+INFO:NumberSorting:11 epoch training loss 420.530823
+INFO:NumberSorting:12 epoch training loss 353.949005
+INFO:NumberSorting:13 epoch training loss 377.798065
+INFO:NumberSorting:14 epoch training loss 402.927673
+INFO:NumberSorting:15 epoch training loss 408.552124
+INFO:NumberSorting:16 epoch training loss 375.778351
+INFO:NumberSorting:17 epoch training loss 425.421265
+INFO:NumberSorting:18 epoch training loss 386.455322
+INFO:NumberSorting:19 epoch training loss 380.433685
+INFO:NumberSorting:20 epoch training loss 364.184967
+INFO:NumberSorting:21 epoch training loss 318.384888
+INFO:NumberSorting:22 epoch training loss 469.296753
+INFO:NumberSorting:23 epoch training loss 369.392456
+INFO:NumberSorting:24 epoch training loss 416.124512
+INFO:NumberSorting:25 epoch training loss 385.322937
+INFO:NumberSorting:26 epoch training loss 431.527618
+INFO:NumberSorting:27 epoch training loss 382.280457
+INFO:NumberSorting:28 epoch training loss 419.783356
+INFO:NumberSorting:29 epoch training loss 356.851410
+INFO:NumberSorting:30 epoch training loss 380.125427
+INFO:NumberSorting:31 epoch training loss 372.666321
+INFO:NumberSorting:32 epoch training loss 381.403778
+INFO:NumberSorting:33 epoch training loss 414.530853
+INFO:NumberSorting:34 epoch training loss 389.439545
+INFO:NumberSorting:35 epoch training loss 448.508148
+INFO:NumberSorting:36 epoch training loss 399.786774
+INFO:NumberSorting:37 epoch training loss 416.504547
+INFO:NumberSorting:38 epoch training loss 435.822784
+INFO:NumberSorting:39 epoch training loss 382.512909
+INFO:NumberSorting:40 epoch training loss 408.769012
+INFO:NumberSorting:41 epoch training loss 401.422241
+INFO:NumberSorting:42 epoch training loss 433.071686
+INFO:NumberSorting:43 epoch training loss 381.118042
+INFO:NumberSorting:44 epoch training loss 401.401367
+INFO:NumberSorting:45 epoch training loss 332.798157
+INFO:NumberSorting:46 epoch training loss 393.879761
+INFO:NumberSorting:47 epoch training loss 351.356995
+INFO:NumberSorting:48 epoch training loss 404.499573
+INFO:NumberSorting:49 epoch training loss 406.015320
+INFO:NumberSorting:50 epoch training loss 444.324036
+INFO:NumberSorting:51 epoch training loss 385.327301
+INFO:NumberSorting:52 epoch training loss 361.145142
+INFO:NumberSorting:53 epoch training loss 414.567810
+INFO:NumberSorting:54 epoch training loss 422.369598
+INFO:NumberSorting:55 epoch training loss 377.835144
+INFO:NumberSorting:56 epoch training loss 409.503662
+INFO:NumberSorting:57 epoch training loss 350.615051
+INFO:NumberSorting:58 epoch training loss 418.193878
+INFO:NumberSorting:59 epoch training loss 365.725586
+INFO:NumberSorting:60 epoch training loss 374.851929
+INFO:NumberSorting:61 epoch training loss 395.716492
+INFO:NumberSorting:62 epoch training loss 375.500122
+INFO:NumberSorting:63 epoch training loss 378.542053
+INFO:NumberSorting:64 epoch training loss 438.477844
+INFO:NumberSorting:65 epoch training loss 371.211548
+INFO:NumberSorting:66 epoch training loss 376.678223
+INFO:NumberSorting:67 epoch training loss 368.297791
+INFO:NumberSorting:68 epoch training loss 366.034058
+INFO:NumberSorting:69 epoch training loss 360.469788
+INFO:NumberSorting:70 epoch training loss 419.738434
+INFO:NumberSorting:71 epoch training loss 438.592468
+INFO:NumberSorting:72 epoch training loss 411.482819
+INFO:NumberSorting:73 epoch training loss 357.225769
+INFO:NumberSorting:74 epoch training loss 418.590942
+INFO:NumberSorting:75 epoch training loss 379.392822
+INFO:NumberSorting:76 epoch training loss 368.911621
+INFO:NumberSorting:77 epoch training loss 362.575897
+INFO:NumberSorting:78 epoch training loss 355.653290
+INFO:NumberSorting:79 epoch training loss 367.302063
+INFO:NumberSorting:80 epoch training loss 363.255157
+INFO:NumberSorting:81 epoch training loss 395.005493
+INFO:NumberSorting:82 epoch training loss 395.209717
+INFO:NumberSorting:83 epoch training loss 435.958832
+INFO:NumberSorting:84 epoch training loss 358.195160
+INFO:NumberSorting:85 epoch training loss 369.534027
+INFO:NumberSorting:86 epoch training loss 388.248199
+INFO:NumberSorting:87 epoch training loss 370.274719
+INFO:NumberSorting:88 epoch training loss 404.811157
+INFO:NumberSorting:89 epoch training loss 375.378906
+INFO:NumberSorting:90 epoch training loss 430.404175
+INFO:NumberSorting:91 epoch training loss 350.827576
+INFO:NumberSorting:92 epoch training loss 338.892975
+INFO:NumberSorting:93 epoch training loss 393.828613
+INFO:NumberSorting:94 epoch training loss 426.735107
+INFO:NumberSorting:95 epoch training loss 399.610474
+INFO:NumberSorting:96 epoch training loss 413.660339
+INFO:NumberSorting:97 epoch training loss 418.810425
+INFO:NumberSorting:98 epoch training loss 361.735382
+INFO:NumberSorting:99 epoch training loss 391.331543
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.968750
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=12, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=1, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=1, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 149.040817
+INFO:NumberSorting:1 epoch training loss 260.062653
+INFO:NumberSorting:2 epoch training loss 172.722580
+INFO:NumberSorting:3 epoch training loss 445.949371
+INFO:NumberSorting:4 epoch training loss 81.458374
+INFO:NumberSorting:5 epoch training loss 318.405396
+INFO:NumberSorting:6 epoch training loss 424.505737
+INFO:NumberSorting:7 epoch training loss 609.060120
+INFO:NumberSorting:8 epoch training loss 582.554321
+INFO:NumberSorting:9 epoch training loss 483.392090
+INFO:NumberSorting:10 epoch training loss 470.412537
+INFO:NumberSorting:11 epoch training loss 381.004211
+INFO:NumberSorting:12 epoch training loss 364.312439
+INFO:NumberSorting:13 epoch training loss 464.861694
+INFO:NumberSorting:14 epoch training loss 262.577454
+INFO:NumberSorting:15 epoch training loss 162.107513
+INFO:NumberSorting:16 epoch training loss 399.427704
+INFO:NumberSorting:17 epoch training loss 551.341675
+INFO:NumberSorting:18 epoch training loss 341.671143
+INFO:NumberSorting:19 epoch training loss 376.401855
+INFO:NumberSorting:20 epoch training loss 373.702026
+INFO:NumberSorting:21 epoch training loss 415.117371
+INFO:NumberSorting:22 epoch training loss 530.821045
+INFO:NumberSorting:23 epoch training loss 341.658875
+INFO:NumberSorting:24 epoch training loss 311.695770
+INFO:NumberSorting:25 epoch training loss 431.612701
+INFO:NumberSorting:26 epoch training loss 259.068390
+INFO:NumberSorting:27 epoch training loss 319.479523
+INFO:NumberSorting:28 epoch training loss 329.318115
+INFO:NumberSorting:29 epoch training loss 339.462708
+INFO:NumberSorting:30 epoch training loss 379.259521
+INFO:NumberSorting:31 epoch training loss 363.807953
+INFO:NumberSorting:32 epoch training loss 470.185944
+INFO:NumberSorting:33 epoch training loss 599.292725
+INFO:NumberSorting:34 epoch training loss 322.389832
+INFO:NumberSorting:35 epoch training loss 415.160461
+INFO:NumberSorting:36 epoch training loss 428.532898
+INFO:NumberSorting:37 epoch training loss 431.242126
+INFO:NumberSorting:38 epoch training loss 429.373779
+INFO:NumberSorting:39 epoch training loss 427.346222
+INFO:NumberSorting:40 epoch training loss 646.144409
+INFO:NumberSorting:41 epoch training loss 332.842896
+INFO:NumberSorting:42 epoch training loss 390.059448
+INFO:NumberSorting:43 epoch training loss 307.257629
+INFO:NumberSorting:44 epoch training loss 429.154449
+INFO:NumberSorting:45 epoch training loss 284.267395
+INFO:NumberSorting:46 epoch training loss 361.157227
+INFO:NumberSorting:47 epoch training loss 116.642555
+INFO:NumberSorting:48 epoch training loss 429.326416
+INFO:NumberSorting:49 epoch training loss 457.795410
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=1, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 262.942780
+INFO:NumberSorting:1 epoch training loss 465.626251
+INFO:NumberSorting:2 epoch training loss 336.212646
+INFO:NumberSorting:3 epoch training loss 320.448547
+INFO:NumberSorting:4 epoch training loss 426.790039
+INFO:NumberSorting:5 epoch training loss 352.997986
+INFO:NumberSorting:6 epoch training loss 350.187134
+INFO:NumberSorting:7 epoch training loss 264.687683
+INFO:NumberSorting:8 epoch training loss 401.335388
+INFO:NumberSorting:9 epoch training loss 473.622498
+INFO:NumberSorting:10 epoch training loss 381.459412
+INFO:NumberSorting:11 epoch training loss 458.084564
+INFO:NumberSorting:12 epoch training loss 320.762726
+INFO:NumberSorting:13 epoch training loss 425.015747
+INFO:NumberSorting:14 epoch training loss 430.898010
+INFO:NumberSorting:15 epoch training loss 359.865448
+INFO:NumberSorting:16 epoch training loss 341.060730
+INFO:NumberSorting:17 epoch training loss 394.350525
+INFO:NumberSorting:18 epoch training loss 232.698029
+INFO:NumberSorting:19 epoch training loss 294.393829
+INFO:NumberSorting:20 epoch training loss 521.651917
+INFO:NumberSorting:21 epoch training loss 474.044189
+INFO:NumberSorting:22 epoch training loss 337.029724
+INFO:NumberSorting:23 epoch training loss 362.508484
+INFO:NumberSorting:24 epoch training loss 545.920715
+INFO:NumberSorting:25 epoch training loss 294.211212
+INFO:NumberSorting:26 epoch training loss 87.406082
+INFO:NumberSorting:27 epoch training loss 394.924469
+INFO:NumberSorting:28 epoch training loss 230.135254
+INFO:NumberSorting:29 epoch training loss 413.303833
+INFO:NumberSorting:30 epoch training loss 91.176056
+INFO:NumberSorting:31 epoch training loss 426.268524
+INFO:NumberSorting:32 epoch training loss 612.708008
+INFO:NumberSorting:33 epoch training loss 378.655884
+INFO:NumberSorting:34 epoch training loss 406.580139
+INFO:NumberSorting:35 epoch training loss 503.588135
+INFO:NumberSorting:36 epoch training loss 387.447937
+INFO:NumberSorting:37 epoch training loss 401.886841
+INFO:NumberSorting:38 epoch training loss 265.529053
+INFO:NumberSorting:39 epoch training loss 577.927490
+INFO:NumberSorting:40 epoch training loss 378.982819
+INFO:NumberSorting:41 epoch training loss 436.569183
+INFO:NumberSorting:42 epoch training loss 212.402039
+INFO:NumberSorting:43 epoch training loss 371.528778
+INFO:NumberSorting:44 epoch training loss 376.396088
+INFO:NumberSorting:45 epoch training loss 353.991058
+INFO:NumberSorting:46 epoch training loss 385.437897
+INFO:NumberSorting:47 epoch training loss 388.387421
+INFO:NumberSorting:48 epoch training loss 136.614594
+INFO:NumberSorting:49 epoch training loss 439.876099
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 366.709656
+INFO:NumberSorting:1 epoch training loss 428.191772
+INFO:NumberSorting:2 epoch training loss 399.346161
+INFO:NumberSorting:3 epoch training loss 402.433777
+INFO:NumberSorting:4 epoch training loss 391.572906
+INFO:NumberSorting:5 epoch training loss 348.654022
+INFO:NumberSorting:6 epoch training loss 358.793365
+INFO:NumberSorting:7 epoch training loss 439.342926
+INFO:NumberSorting:8 epoch training loss 395.875671
+INFO:NumberSorting:9 epoch training loss 453.035797
+INFO:NumberSorting:10 epoch training loss 316.746826
+INFO:NumberSorting:11 epoch training loss 399.058044
+INFO:NumberSorting:12 epoch training loss 405.310059
+INFO:NumberSorting:13 epoch training loss 365.297668
+INFO:NumberSorting:14 epoch training loss 363.839325
+INFO:NumberSorting:15 epoch training loss 414.120850
+INFO:NumberSorting:16 epoch training loss 398.525909
+INFO:NumberSorting:17 epoch training loss 381.487518
+INFO:NumberSorting:18 epoch training loss 373.295166
+INFO:NumberSorting:19 epoch training loss 366.151733
+INFO:NumberSorting:20 epoch training loss 405.734497
+INFO:NumberSorting:21 epoch training loss 450.627380
+INFO:NumberSorting:22 epoch training loss 391.772034
+INFO:NumberSorting:23 epoch training loss 312.698181
+INFO:NumberSorting:24 epoch training loss 397.346130
+INFO:NumberSorting:25 epoch training loss 379.877167
+INFO:NumberSorting:26 epoch training loss 327.948792
+INFO:NumberSorting:27 epoch training loss 381.498230
+INFO:NumberSorting:28 epoch training loss 435.983337
+INFO:NumberSorting:29 epoch training loss 471.583862
+INFO:NumberSorting:30 epoch training loss 374.775787
+INFO:NumberSorting:31 epoch training loss 347.815704
+INFO:NumberSorting:32 epoch training loss 424.023041
+INFO:NumberSorting:33 epoch training loss 377.701447
+INFO:NumberSorting:34 epoch training loss 366.352112
+INFO:NumberSorting:35 epoch training loss 425.789337
+INFO:NumberSorting:36 epoch training loss 408.331970
+INFO:NumberSorting:37 epoch training loss 367.980286
+INFO:NumberSorting:38 epoch training loss 400.562012
+INFO:NumberSorting:39 epoch training loss 348.612640
+INFO:NumberSorting:40 epoch training loss 382.341553
+INFO:NumberSorting:41 epoch training loss 350.520630
+INFO:NumberSorting:42 epoch training loss 428.347107
+INFO:NumberSorting:43 epoch training loss 367.307159
+INFO:NumberSorting:44 epoch training loss 410.234741
+INFO:NumberSorting:45 epoch training loss 379.070282
+INFO:NumberSorting:46 epoch training loss 408.616150
+INFO:NumberSorting:47 epoch training loss 337.005859
+INFO:NumberSorting:48 epoch training loss 419.386749
+INFO:NumberSorting:49 epoch training loss 428.174561
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 423.496246
+INFO:NumberSorting:1 epoch training loss 368.719177
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=7, n_numbers=64, n_train_lists=10000, n_test_lists=100, min_value=0, max_value=1, train_seed=1, test_seed=2, num_workers=8, lr=0.1, batch_size=100, epochs=100, hid_c=64, out_dir='log', display=50)
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=7, n_numbers=64, n_train_lists=10000, n_test_lists=100, min_value=0, max_value=1, train_seed=1, test_seed=2, num_workers=8, lr=0.1, batch_size=100, epochs=100, hid_c=64, out_dir='log', display=50)
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch [50/100] training loss 0.008444
+INFO:NumberSorting:0 epoch [100/100] training loss 0.007236
+INFO:NumberSorting:1 epoch [50/100] training loss 0.007004
+INFO:NumberSorting:1 epoch [100/100] training loss 0.006487
+INFO:NumberSorting:2 epoch [50/100] training loss 0.006008
+INFO:NumberSorting:2 epoch [100/100] training loss 0.005763
+INFO:NumberSorting:3 epoch [50/100] training loss 0.005322
+INFO:NumberSorting:3 epoch [100/100] training loss 0.004816
+INFO:NumberSorting:4 epoch [50/100] training loss 0.004437
+INFO:NumberSorting:4 epoch [100/100] training loss 0.004097
+INFO:NumberSorting:5 epoch [50/100] training loss 0.003691
+INFO:NumberSorting:5 epoch [100/100] training loss 0.003378
+INFO:NumberSorting:6 epoch [50/100] training loss 0.003179
+INFO:NumberSorting:6 epoch [100/100] training loss 0.002964
+INFO:NumberSorting:7 epoch [50/100] training loss 0.002784
+INFO:NumberSorting:7 epoch [100/100] training loss 0.002609
+INFO:NumberSorting:8 epoch [50/100] training loss 0.002633
+INFO:NumberSorting:8 epoch [100/100] training loss 0.002512
+INFO:NumberSorting:9 epoch [50/100] training loss 0.002488
+INFO:NumberSorting:9 epoch [100/100] training loss 0.002364
+INFO:NumberSorting:10 epoch [50/100] training loss 0.002384
+INFO:NumberSorting:10 epoch [100/100] training loss 0.002351
+INFO:NumberSorting:11 epoch [50/100] training loss 0.002233
+INFO:NumberSorting:11 epoch [100/100] training loss 0.002334
+INFO:NumberSorting:12 epoch [50/100] training loss 0.002320
+INFO:NumberSorting:12 epoch [100/100] training loss 0.002278
+INFO:NumberSorting:13 epoch [50/100] training loss 0.002143
+INFO:NumberSorting:13 epoch [100/100] training loss 0.002192
+INFO:NumberSorting:14 epoch [50/100] training loss 0.001987
+INFO:NumberSorting:14 epoch [100/100] training loss 0.002106
+INFO:NumberSorting:15 epoch [50/100] training loss 0.002146
+INFO:NumberSorting:15 epoch [100/100] training loss 0.002075
+INFO:NumberSorting:16 epoch [50/100] training loss 0.002031
+INFO:NumberSorting:16 epoch [100/100] training loss 0.002049
+INFO:NumberSorting:17 epoch [50/100] training loss 0.002124
+INFO:NumberSorting:17 epoch [100/100] training loss 0.002035
+INFO:NumberSorting:18 epoch [50/100] training loss 0.002228
+INFO:NumberSorting:18 epoch [100/100] training loss 0.001992
+INFO:NumberSorting:19 epoch [50/100] training loss 0.001934
+INFO:NumberSorting:19 epoch [100/100] training loss 0.001981
+INFO:NumberSorting:20 epoch [50/100] training loss 0.001942
+INFO:NumberSorting:20 epoch [100/100] training loss 0.001987
+INFO:NumberSorting:21 epoch [50/100] training loss 0.001803
+INFO:NumberSorting:21 epoch [100/100] training loss 0.002008
+INFO:NumberSorting:22 epoch [50/100] training loss 0.001982
+INFO:NumberSorting:22 epoch [100/100] training loss 0.002070
+INFO:NumberSorting:23 epoch [50/100] training loss 0.001808
+INFO:NumberSorting:23 epoch [100/100] training loss 0.002016
+INFO:NumberSorting:24 epoch [50/100] training loss 0.001836
+INFO:NumberSorting:24 epoch [100/100] training loss 0.001983
+INFO:NumberSorting:25 epoch [50/100] training loss 0.001865
+INFO:NumberSorting:25 epoch [100/100] training loss 0.001994
+INFO:NumberSorting:26 epoch [50/100] training loss 0.002044
+INFO:NumberSorting:26 epoch [100/100] training loss 0.001987
+INFO:NumberSorting:27 epoch [50/100] training loss 0.001999
+INFO:NumberSorting:27 epoch [100/100] training loss 0.001882
+INFO:NumberSorting:28 epoch [50/100] training loss 0.001980
+INFO:NumberSorting:28 epoch [100/100] training loss 0.001961
+INFO:NumberSorting:29 epoch [50/100] training loss 0.001941
+INFO:NumberSorting:29 epoch [100/100] training loss 0.001829
+INFO:NumberSorting:30 epoch [50/100] training loss 0.002050
+INFO:NumberSorting:30 epoch [100/100] training loss 0.002125
+INFO:NumberSorting:31 epoch [50/100] training loss 0.002023
+INFO:NumberSorting:31 epoch [100/100] training loss 0.001781
+INFO:NumberSorting:32 epoch [50/100] training loss 0.001863
+INFO:NumberSorting:32 epoch [100/100] training loss 0.001851
+INFO:NumberSorting:33 epoch [50/100] training loss 0.002230
+INFO:NumberSorting:33 epoch [100/100] training loss 0.001953
+INFO:NumberSorting:Namespace(tau=17.5, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:Namespace(tau=17.5, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.136144
+INFO:NumberSorting:1 epoch training loss 0.049210
+INFO:NumberSorting:2 epoch training loss 0.040385
+INFO:NumberSorting:3 epoch training loss 0.062211
+INFO:NumberSorting:4 epoch training loss 0.023729
+INFO:NumberSorting:5 epoch training loss 0.115212
+INFO:NumberSorting:6 epoch training loss 0.074286
+INFO:NumberSorting:7 epoch training loss 0.021427
+INFO:NumberSorting:8 epoch training loss 0.053913
+INFO:NumberSorting:9 epoch training loss 0.130307
+INFO:NumberSorting:10 epoch training loss 0.151138
+INFO:NumberSorting:11 epoch training loss 0.066454
+INFO:NumberSorting:12 epoch training loss 0.018619
+INFO:NumberSorting:13 epoch training loss 0.122626
+INFO:NumberSorting:14 epoch training loss 0.012108
+INFO:NumberSorting:15 epoch training loss 0.023584
+INFO:NumberSorting:16 epoch training loss 0.026144
+INFO:NumberSorting:17 epoch training loss 0.038975
+INFO:NumberSorting:18 epoch training loss 0.022273
+INFO:NumberSorting:19 epoch training loss 0.046927
+INFO:NumberSorting:20 epoch training loss 0.053216
+INFO:NumberSorting:21 epoch training loss 0.107790
+INFO:NumberSorting:22 epoch training loss 0.033018
+INFO:NumberSorting:23 epoch training loss 0.015597
+INFO:NumberSorting:24 epoch training loss 0.057071
+INFO:NumberSorting:25 epoch training loss 0.019346
+INFO:NumberSorting:26 epoch training loss 0.061136
+INFO:NumberSorting:27 epoch training loss 0.064364
+INFO:NumberSorting:28 epoch training loss 0.086665
+INFO:NumberSorting:29 epoch training loss 0.022726
+INFO:NumberSorting:30 epoch training loss 0.017718
+INFO:NumberSorting:31 epoch training loss 0.073118
+INFO:NumberSorting:32 epoch training loss 0.094200
+INFO:NumberSorting:33 epoch training loss 0.037586
+INFO:NumberSorting:34 epoch training loss 0.098670
+INFO:NumberSorting:35 epoch training loss 0.088571
+INFO:NumberSorting:36 epoch training loss 0.171968
+INFO:NumberSorting:37 epoch training loss 0.157878
+INFO:NumberSorting:38 epoch training loss 0.022433
+INFO:NumberSorting:39 epoch training loss 0.019439
+INFO:NumberSorting:40 epoch training loss 0.115366
+INFO:NumberSorting:41 epoch training loss 0.032116
+INFO:NumberSorting:42 epoch training loss 0.028081
+INFO:NumberSorting:43 epoch training loss 0.098513
+INFO:NumberSorting:44 epoch training loss 0.018284
+INFO:NumberSorting:45 epoch training loss 0.022570
+INFO:NumberSorting:46 epoch training loss 0.021165
+INFO:NumberSorting:47 epoch training loss 0.015779
+INFO:NumberSorting:48 epoch training loss 0.018265
+INFO:NumberSorting:49 epoch training loss 0.025947
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=17.5, n_sink_iter=20, n_samples=5, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=64, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.984375
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=15.0, n_sink_iter=20, n_samples=15, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.282141
+INFO:NumberSorting:1 epoch training loss 0.182956
+INFO:NumberSorting:2 epoch training loss 0.157366
+INFO:NumberSorting:3 epoch training loss 0.164292
+INFO:NumberSorting:4 epoch training loss 0.154675
+INFO:NumberSorting:5 epoch training loss 0.136378
+INFO:NumberSorting:6 epoch training loss 0.180282
+INFO:NumberSorting:7 epoch training loss 0.152514
+INFO:NumberSorting:8 epoch training loss 0.175886
+INFO:NumberSorting:9 epoch training loss 0.158151
+INFO:NumberSorting:10 epoch training loss 0.134685
+INFO:NumberSorting:11 epoch training loss 0.162337
+INFO:NumberSorting:12 epoch training loss 0.147156
+INFO:NumberSorting:13 epoch training loss 0.136208
+INFO:NumberSorting:14 epoch training loss 0.116968
+INFO:NumberSorting:15 epoch training loss 0.128520
+INFO:NumberSorting:16 epoch training loss 0.104155
+INFO:NumberSorting:17 epoch training loss 0.110583
+INFO:NumberSorting:18 epoch training loss 0.107941
+INFO:NumberSorting:19 epoch training loss 0.106828
+INFO:NumberSorting:20 epoch training loss 0.109540
+INFO:NumberSorting:21 epoch training loss 0.101436
+INFO:NumberSorting:22 epoch training loss 0.104029
+INFO:NumberSorting:23 epoch training loss 0.089706
+INFO:NumberSorting:24 epoch training loss 0.085604
+INFO:NumberSorting:25 epoch training loss 0.095418
+INFO:NumberSorting:26 epoch training loss 0.076511
+INFO:NumberSorting:27 epoch training loss 0.083822
+INFO:NumberSorting:28 epoch training loss 0.076534
+INFO:NumberSorting:29 epoch training loss 0.089478
+INFO:NumberSorting:30 epoch training loss 0.081440
+INFO:NumberSorting:31 epoch training loss 0.092826
+INFO:NumberSorting:32 epoch training loss 0.075762
+INFO:NumberSorting:33 epoch training loss 0.077618
+INFO:NumberSorting:34 epoch training loss 0.077981
+INFO:NumberSorting:35 epoch training loss 0.086232
+INFO:NumberSorting:36 epoch training loss 0.089238
+INFO:NumberSorting:37 epoch training loss 0.089760
+INFO:NumberSorting:38 epoch training loss 0.091944
+INFO:NumberSorting:39 epoch training loss 0.094800
+INFO:NumberSorting:40 epoch training loss 0.085110
+INFO:NumberSorting:41 epoch training loss 0.092323
+INFO:NumberSorting:42 epoch training loss 0.078419
+INFO:NumberSorting:43 epoch training loss 0.066725
+INFO:NumberSorting:44 epoch training loss 0.058176
+INFO:NumberSorting:45 epoch training loss 0.067963
+INFO:NumberSorting:46 epoch training loss 0.075153
+INFO:NumberSorting:47 epoch training loss 0.081618
+INFO:NumberSorting:48 epoch training loss 0.067657
+INFO:NumberSorting:49 epoch training loss 0.072325
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.968750
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=20, n_sink_iter=20, n_samples=20, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:Namespace(tau=20, n_sink_iter=20, n_samples=20, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.467370
+INFO:NumberSorting:1 epoch training loss 0.263130
+INFO:NumberSorting:2 epoch training loss 0.224112
+INFO:NumberSorting:3 epoch training loss 0.216407
+INFO:NumberSorting:4 epoch training loss 0.213638
+INFO:NumberSorting:5 epoch training loss 0.210609
+INFO:NumberSorting:6 epoch training loss 0.209683
+INFO:NumberSorting:7 epoch training loss 0.209634
+INFO:NumberSorting:8 epoch training loss 0.209423
+INFO:NumberSorting:9 epoch training loss 0.209231
+INFO:NumberSorting:10 epoch training loss 0.209072
+INFO:NumberSorting:11 epoch training loss 0.208986
+INFO:NumberSorting:12 epoch training loss 0.209081
+INFO:NumberSorting:13 epoch training loss 0.208972
+INFO:NumberSorting:14 epoch training loss 0.209035
+INFO:NumberSorting:15 epoch training loss 0.209110
+INFO:NumberSorting:16 epoch training loss 0.209127
+INFO:NumberSorting:17 epoch training loss 0.209313
+INFO:NumberSorting:18 epoch training loss 0.209390
+INFO:NumberSorting:19 epoch training loss 0.209531
+INFO:NumberSorting:20 epoch training loss 0.209672
+INFO:NumberSorting:21 epoch training loss 0.209729
+INFO:NumberSorting:22 epoch training loss 0.209921
+INFO:NumberSorting:23 epoch training loss 0.210045
+INFO:NumberSorting:24 epoch training loss 0.210180
+INFO:NumberSorting:25 epoch training loss 0.210342
+INFO:NumberSorting:26 epoch training loss 0.210407
+INFO:NumberSorting:27 epoch training loss 0.210565
+INFO:NumberSorting:28 epoch training loss 0.210735
+INFO:NumberSorting:29 epoch training loss 0.210933
+INFO:NumberSorting:30 epoch training loss 0.211090
+INFO:NumberSorting:31 epoch training loss 0.211176
+INFO:NumberSorting:32 epoch training loss 0.211399
+INFO:NumberSorting:33 epoch training loss 0.211531
+INFO:NumberSorting:34 epoch training loss 0.211614
+INFO:NumberSorting:35 epoch training loss 0.211810
+INFO:NumberSorting:36 epoch training loss 0.211921
+INFO:NumberSorting:37 epoch training loss 0.212093
+INFO:NumberSorting:38 epoch training loss 0.212231
+INFO:NumberSorting:39 epoch training loss 0.212389
+INFO:NumberSorting:40 epoch training loss 0.212452
+INFO:NumberSorting:41 epoch training loss 0.212526
+INFO:NumberSorting:42 epoch training loss 0.212610
+INFO:NumberSorting:43 epoch training loss 0.212710
+INFO:NumberSorting:44 epoch training loss 0.212857
+INFO:NumberSorting:45 epoch training loss 0.212939
+INFO:NumberSorting:46 epoch training loss 0.212986
+INFO:NumberSorting:47 epoch training loss 0.213088
+INFO:NumberSorting:48 epoch training loss 0.213127
+INFO:NumberSorting:49 epoch training loss 0.213073
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=5, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.227280
+INFO:NumberSorting:1 epoch training loss 0.168223
+INFO:NumberSorting:2 epoch training loss 0.180686
+INFO:NumberSorting:3 epoch training loss 0.178502
+INFO:NumberSorting:4 epoch training loss 0.177011
+INFO:NumberSorting:5 epoch training loss 0.177941
+INFO:NumberSorting:6 epoch training loss 0.176760
+INFO:NumberSorting:7 epoch training loss 0.176289
+INFO:NumberSorting:8 epoch training loss 0.176412
+INFO:NumberSorting:9 epoch training loss 0.175714
+INFO:NumberSorting:10 epoch training loss 0.176008
+INFO:NumberSorting:11 epoch training loss 0.176058
+INFO:NumberSorting:12 epoch training loss 0.175605
+INFO:NumberSorting:13 epoch training loss 0.175312
+INFO:NumberSorting:14 epoch training loss 0.175537
+INFO:NumberSorting:15 epoch training loss 0.175586
+INFO:NumberSorting:16 epoch training loss 0.175254
+INFO:NumberSorting:17 epoch training loss 0.175288
+INFO:NumberSorting:18 epoch training loss 0.174978
+INFO:NumberSorting:19 epoch training loss 0.175271
+INFO:NumberSorting:20 epoch training loss 0.175040
+INFO:NumberSorting:21 epoch training loss 0.174704
+INFO:NumberSorting:22 epoch training loss 0.174903
+INFO:NumberSorting:23 epoch training loss 0.174422
+INFO:NumberSorting:24 epoch training loss 0.174507
+INFO:NumberSorting:25 epoch training loss 0.174460
+INFO:NumberSorting:26 epoch training loss 0.174893
+INFO:NumberSorting:27 epoch training loss 0.173626
+INFO:NumberSorting:28 epoch training loss 0.173581
+INFO:NumberSorting:29 epoch training loss 0.173180
+INFO:NumberSorting:30 epoch training loss 0.172302
+INFO:NumberSorting:31 epoch training loss 0.171082
+INFO:NumberSorting:32 epoch training loss 0.170482
+INFO:NumberSorting:33 epoch training loss 0.168565
+INFO:NumberSorting:34 epoch training loss 0.166760
+INFO:NumberSorting:35 epoch training loss 0.164070
+INFO:NumberSorting:36 epoch training loss 0.161170
+INFO:NumberSorting:37 epoch training loss 0.157909
+INFO:NumberSorting:38 epoch training loss 0.153594
+INFO:NumberSorting:39 epoch training loss 0.149210
+INFO:NumberSorting:40 epoch training loss 0.144204
+INFO:NumberSorting:41 epoch training loss 0.138943
+INFO:NumberSorting:42 epoch training loss 0.132710
+INFO:NumberSorting:43 epoch training loss 0.127324
+INFO:NumberSorting:44 epoch training loss 0.122479
+INFO:NumberSorting:45 epoch training loss 0.118135
+INFO:NumberSorting:46 epoch training loss 0.113982
+INFO:NumberSorting:47 epoch training loss 0.110812
+INFO:NumberSorting:48 epoch training loss 0.107321
+INFO:NumberSorting:49 epoch training loss 0.104303
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.352487
+INFO:NumberSorting:1 epoch training loss 0.204062
+INFO:NumberSorting:2 epoch training loss 0.177246
+INFO:NumberSorting:3 epoch training loss 0.172477
+INFO:NumberSorting:4 epoch training loss 0.170387
+INFO:NumberSorting:5 epoch training loss 0.168126
+INFO:NumberSorting:6 epoch training loss 0.167793
+INFO:NumberSorting:7 epoch training loss 0.167745
+INFO:NumberSorting:8 epoch training loss 0.167571
+INFO:NumberSorting:9 epoch training loss 0.167517
+INFO:NumberSorting:10 epoch training loss 0.167369
+INFO:NumberSorting:11 epoch training loss 0.167446
+INFO:NumberSorting:12 epoch training loss 0.167468
+INFO:NumberSorting:13 epoch training loss 0.167572
+INFO:NumberSorting:14 epoch training loss 0.167462
+INFO:NumberSorting:15 epoch training loss 0.167623
+INFO:NumberSorting:16 epoch training loss 0.167793
+INFO:NumberSorting:17 epoch training loss 0.167869
+INFO:NumberSorting:18 epoch training loss 0.167893
+INFO:NumberSorting:19 epoch training loss 0.168056
+INFO:NumberSorting:20 epoch training loss 0.168233
+INFO:NumberSorting:21 epoch training loss 0.168350
+INFO:NumberSorting:22 epoch training loss 0.168462
+INFO:NumberSorting:23 epoch training loss 0.168640
+INFO:NumberSorting:24 epoch training loss 0.168733
+INFO:NumberSorting:25 epoch training loss 0.168887
+INFO:NumberSorting:26 epoch training loss 0.169009
+INFO:NumberSorting:27 epoch training loss 0.169152
+INFO:NumberSorting:28 epoch training loss 0.169232
+INFO:NumberSorting:29 epoch training loss 0.169395
+INFO:NumberSorting:30 epoch training loss 0.169581
+INFO:NumberSorting:31 epoch training loss 0.169698
+INFO:NumberSorting:32 epoch training loss 0.169859
+INFO:NumberSorting:33 epoch training loss 0.169919
+INFO:NumberSorting:34 epoch training loss 0.170119
+INFO:NumberSorting:35 epoch training loss 0.170226
+INFO:NumberSorting:36 epoch training loss 0.170341
+INFO:NumberSorting:37 epoch training loss 0.170408
+INFO:NumberSorting:38 epoch training loss 0.170456
+INFO:NumberSorting:39 epoch training loss 0.170543
+INFO:NumberSorting:40 epoch training loss 0.170621
+INFO:NumberSorting:41 epoch training loss 0.170639
+INFO:NumberSorting:42 epoch training loss 0.170767
+INFO:NumberSorting:43 epoch training loss 0.170904
+INFO:NumberSorting:44 epoch training loss 0.170940
+INFO:NumberSorting:45 epoch training loss 0.170939
+INFO:NumberSorting:46 epoch training loss 0.170980
+INFO:NumberSorting:47 epoch training loss 0.171098
+INFO:NumberSorting:48 epoch training loss 0.171064
+INFO:NumberSorting:49 epoch training loss 0.171167
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.257309
+INFO:NumberSorting:1 epoch training loss 0.203506
+INFO:NumberSorting:2 epoch training loss 0.205466
+INFO:NumberSorting:3 epoch training loss 0.184488
+INFO:NumberSorting:4 epoch training loss 0.171483
+INFO:NumberSorting:5 epoch training loss 0.164284
+INFO:NumberSorting:6 epoch training loss 0.187079
+INFO:NumberSorting:7 epoch training loss 0.168120
+INFO:NumberSorting:8 epoch training loss 0.150671
+INFO:NumberSorting:9 epoch training loss 0.150381
+INFO:NumberSorting:10 epoch training loss 0.170462
+INFO:NumberSorting:11 epoch training loss 0.126030
+INFO:NumberSorting:12 epoch training loss 0.137734
+INFO:NumberSorting:13 epoch training loss 0.127243
+INFO:NumberSorting:14 epoch training loss 0.136814
+INFO:NumberSorting:15 epoch training loss 0.122551
+INFO:NumberSorting:16 epoch training loss 0.119755
+INFO:NumberSorting:17 epoch training loss 0.130643
+INFO:NumberSorting:18 epoch training loss 0.105582
+INFO:NumberSorting:19 epoch training loss 0.112939
+INFO:NumberSorting:20 epoch training loss 0.120394
+INFO:NumberSorting:21 epoch training loss 0.122161
+INFO:NumberSorting:22 epoch training loss 0.093965
+INFO:NumberSorting:23 epoch training loss 0.125032
+INFO:NumberSorting:24 epoch training loss 0.091168
+INFO:NumberSorting:25 epoch training loss 0.083652
+INFO:NumberSorting:26 epoch training loss 0.096339
+INFO:NumberSorting:27 epoch training loss 0.092400
+INFO:NumberSorting:28 epoch training loss 0.081509
+INFO:NumberSorting:29 epoch training loss 0.092541
+INFO:NumberSorting:30 epoch training loss 0.088647
+INFO:NumberSorting:31 epoch training loss 0.089529
+INFO:NumberSorting:32 epoch training loss 0.091469
+INFO:NumberSorting:33 epoch training loss 0.092786
+INFO:NumberSorting:34 epoch training loss 0.087190
+INFO:NumberSorting:35 epoch training loss 0.090975
+INFO:NumberSorting:36 epoch training loss 0.080680
+INFO:NumberSorting:37 epoch training loss 0.092852
+INFO:NumberSorting:38 epoch training loss 0.089638
+INFO:NumberSorting:39 epoch training loss 0.086323
+INFO:NumberSorting:40 epoch training loss 0.086787
+INFO:NumberSorting:41 epoch training loss 0.075431
+INFO:NumberSorting:42 epoch training loss 0.062281
+INFO:NumberSorting:43 epoch training loss 0.097373
+INFO:NumberSorting:44 epoch training loss 0.072773
+INFO:NumberSorting:45 epoch training loss 0.085118
+INFO:NumberSorting:46 epoch training loss 0.077545
+INFO:NumberSorting:47 epoch training loss 0.075736
+INFO:NumberSorting:48 epoch training loss 0.065791
+INFO:NumberSorting:49 epoch training loss 0.091969
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 1811.810059
+INFO:NumberSorting:1 epoch training loss 1875.567505
+INFO:NumberSorting:2 epoch training loss 1861.469849
+INFO:NumberSorting:3 epoch training loss 1868.805542
+INFO:NumberSorting:4 epoch training loss 1881.021606
+INFO:NumberSorting:5 epoch training loss 1840.690063
+INFO:NumberSorting:6 epoch training loss 1931.495239
+INFO:NumberSorting:Namespace(tau=5.0, n_sink_iter=20, n_samples=7, n_numbers=64, n_train_lists=10000, n_test_lists=100, min_value=0, max_value=1, train_seed=1, test_seed=2, num_workers=8, lr=0.1, batch_size=100, epochs=100, hid_c=64, out_dir='log', display=50)
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch [50/100] training loss 905.927429
+INFO:NumberSorting:0 epoch [100/100] training loss 908.850098
+INFO:NumberSorting:1 epoch [50/100] training loss 912.599609
+INFO:NumberSorting:1 epoch [100/100] training loss 914.936035
+INFO:NumberSorting:2 epoch [50/100] training loss 904.163574
+INFO:NumberSorting:2 epoch [100/100] training loss 906.207703
+INFO:NumberSorting:3 epoch [50/100] training loss 902.171997
+INFO:NumberSorting:3 epoch [100/100] training loss 896.263000
+INFO:NumberSorting:4 epoch [50/100] training loss 911.045410
+INFO:NumberSorting:4 epoch [100/100] training loss 904.094177
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.161523
+INFO:NumberSorting:1 epoch training loss 0.202503
+INFO:NumberSorting:2 epoch training loss 0.151937
+INFO:NumberSorting:3 epoch training loss 0.176511
+INFO:NumberSorting:4 epoch training loss 0.165734
+INFO:NumberSorting:5 epoch training loss 0.168897
+INFO:NumberSorting:6 epoch training loss 0.187713
+INFO:NumberSorting:7 epoch training loss 0.173731
+INFO:NumberSorting:8 epoch training loss 0.134083
+INFO:NumberSorting:9 epoch training loss 0.114733
+INFO:NumberSorting:10 epoch training loss 0.140141
+INFO:NumberSorting:11 epoch training loss 0.114971
+INFO:NumberSorting:12 epoch training loss 0.163405
+INFO:NumberSorting:13 epoch training loss 0.094948
+INFO:NumberSorting:14 epoch training loss 0.084698
+INFO:NumberSorting:15 epoch training loss 0.094411
+INFO:NumberSorting:16 epoch training loss 0.101191
+INFO:NumberSorting:17 epoch training loss 0.120032
+INFO:NumberSorting:18 epoch training loss 0.098328
+INFO:NumberSorting:19 epoch training loss 0.101865
+INFO:NumberSorting:20 epoch training loss 0.089818
+INFO:NumberSorting:21 epoch training loss 0.097170
+INFO:NumberSorting:22 epoch training loss 0.080902
+INFO:NumberSorting:23 epoch training loss 0.082008
+INFO:NumberSorting:24 epoch training loss 0.062922
+INFO:NumberSorting:25 epoch training loss 0.092607
+INFO:NumberSorting:26 epoch training loss 0.084246
+INFO:NumberSorting:27 epoch training loss 0.116067
+INFO:NumberSorting:28 epoch training loss 0.069699
+INFO:NumberSorting:29 epoch training loss 0.084393
+INFO:NumberSorting:30 epoch training loss 0.083549
+INFO:NumberSorting:31 epoch training loss 0.084208
+INFO:NumberSorting:32 epoch training loss 0.070923
+INFO:NumberSorting:33 epoch training loss 0.090577
+INFO:NumberSorting:34 epoch training loss 0.087875
+INFO:NumberSorting:35 epoch training loss 0.078636
+INFO:NumberSorting:36 epoch training loss 0.068541
+INFO:NumberSorting:37 epoch training loss 0.083434
+INFO:NumberSorting:38 epoch training loss 0.084908
+INFO:NumberSorting:39 epoch training loss 0.075966
+INFO:NumberSorting:40 epoch training loss 0.069894
+INFO:NumberSorting:41 epoch training loss 0.090551
+INFO:NumberSorting:42 epoch training loss 0.062200
+INFO:NumberSorting:43 epoch training loss 0.066312
+INFO:NumberSorting:44 epoch training loss 0.072875
+INFO:NumberSorting:45 epoch training loss 0.068640
+INFO:NumberSorting:46 epoch training loss 0.090184
+INFO:NumberSorting:47 epoch training loss 0.073620
+INFO:NumberSorting:48 epoch training loss 0.054976
+INFO:NumberSorting:49 epoch training loss 0.083644
+INFO:NumberSorting:50 epoch training loss 0.065536
+INFO:NumberSorting:51 epoch training loss 0.091736
+INFO:NumberSorting:52 epoch training loss 0.065810
+INFO:NumberSorting:53 epoch training loss 0.069386
+INFO:NumberSorting:54 epoch training loss 0.064341
+INFO:NumberSorting:55 epoch training loss 0.060252
+INFO:NumberSorting:56 epoch training loss 0.064255
+INFO:NumberSorting:57 epoch training loss 0.074925
+INFO:NumberSorting:58 epoch training loss 0.070135
+INFO:NumberSorting:59 epoch training loss 0.080597
+INFO:NumberSorting:60 epoch training loss 0.084371
+INFO:NumberSorting:61 epoch training loss 0.065441
+INFO:NumberSorting:62 epoch training loss 0.072322
+INFO:NumberSorting:63 epoch training loss 0.097351
+INFO:NumberSorting:64 epoch training loss 0.078050
+INFO:NumberSorting:65 epoch training loss 0.071244
+INFO:NumberSorting:66 epoch training loss 0.072539
+INFO:NumberSorting:67 epoch training loss 0.079784
+INFO:NumberSorting:68 epoch training loss 0.079323
+INFO:NumberSorting:69 epoch training loss 0.065687
+INFO:NumberSorting:70 epoch training loss 0.069089
+INFO:NumberSorting:71 epoch training loss 0.083733
+INFO:NumberSorting:72 epoch training loss 0.080017
+INFO:NumberSorting:73 epoch training loss 0.075005
+INFO:NumberSorting:74 epoch training loss 0.073318
+INFO:NumberSorting:75 epoch training loss 0.078867
+INFO:NumberSorting:76 epoch training loss 0.078069
+INFO:NumberSorting:77 epoch training loss 0.064429
+INFO:NumberSorting:78 epoch training loss 0.097123
+INFO:NumberSorting:79 epoch training loss 0.087505
+INFO:NumberSorting:80 epoch training loss 0.070420
+INFO:NumberSorting:81 epoch training loss 0.062973
+INFO:NumberSorting:82 epoch training loss 0.071328
+INFO:NumberSorting:83 epoch training loss 0.081250
+INFO:NumberSorting:84 epoch training loss 0.060251
+INFO:NumberSorting:85 epoch training loss 0.073213
+INFO:NumberSorting:86 epoch training loss 0.079055
+INFO:NumberSorting:87 epoch training loss 0.086112
+INFO:NumberSorting:88 epoch training loss 0.087211
+INFO:NumberSorting:89 epoch training loss 0.075004
+INFO:NumberSorting:90 epoch training loss 0.094466
+INFO:NumberSorting:91 epoch training loss 0.084479
+INFO:NumberSorting:92 epoch training loss 0.084548
+INFO:NumberSorting:93 epoch training loss 0.091561
+INFO:NumberSorting:94 epoch training loss 0.076715
+INFO:NumberSorting:95 epoch training loss 0.069898
+INFO:NumberSorting:96 epoch training loss 0.091447
+INFO:NumberSorting:97 epoch training loss 0.059433
+INFO:NumberSorting:98 epoch training loss 0.075426
+INFO:NumberSorting:99 epoch training loss 0.087803
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.984375
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.189177
+INFO:NumberSorting:1 epoch training loss 0.191488
+INFO:NumberSorting:2 epoch training loss 0.178920
+INFO:NumberSorting:3 epoch training loss 0.179259
+INFO:NumberSorting:4 epoch training loss 0.178235
+INFO:NumberSorting:5 epoch training loss 0.178680
+INFO:NumberSorting:6 epoch training loss 0.178330
+INFO:NumberSorting:7 epoch training loss 0.178712
+INFO:NumberSorting:8 epoch training loss 0.178630
+INFO:NumberSorting:9 epoch training loss 0.178856
+INFO:NumberSorting:10 epoch training loss 0.178759
+INFO:NumberSorting:11 epoch training loss 0.178743
+INFO:NumberSorting:12 epoch training loss 0.178883
+INFO:NumberSorting:13 epoch training loss 0.178794
+INFO:NumberSorting:14 epoch training loss 0.178770
+INFO:NumberSorting:15 epoch training loss 0.178895
+INFO:NumberSorting:16 epoch training loss 0.178563
+INFO:NumberSorting:17 epoch training loss 0.178608
+INFO:NumberSorting:18 epoch training loss 0.178608
+INFO:NumberSorting:19 epoch training loss 0.178288
+INFO:NumberSorting:20 epoch training loss 0.178469
+INFO:NumberSorting:21 epoch training loss 0.178521
+INFO:NumberSorting:22 epoch training loss 0.178306
+INFO:NumberSorting:23 epoch training loss 0.178386
+INFO:NumberSorting:24 epoch training loss 0.178217
+INFO:NumberSorting:25 epoch training loss 0.178300
+INFO:NumberSorting:26 epoch training loss 0.178348
+INFO:NumberSorting:27 epoch training loss 0.178477
+INFO:NumberSorting:28 epoch training loss 0.178527
+INFO:NumberSorting:29 epoch training loss 0.178329
+INFO:NumberSorting:30 epoch training loss 0.178355
+INFO:NumberSorting:31 epoch training loss 0.178303
+INFO:NumberSorting:32 epoch training loss 0.178378
+INFO:NumberSorting:33 epoch training loss 0.178407
+INFO:NumberSorting:34 epoch training loss 0.178681
+INFO:NumberSorting:35 epoch training loss 0.178425
+INFO:NumberSorting:36 epoch training loss 0.178528
+INFO:NumberSorting:37 epoch training loss 0.178609
+INFO:NumberSorting:38 epoch training loss 0.178710
+INFO:NumberSorting:39 epoch training loss 0.178684
+INFO:NumberSorting:40 epoch training loss 0.178632
+INFO:NumberSorting:41 epoch training loss 0.178861
+INFO:NumberSorting:42 epoch training loss 0.178790
+INFO:NumberSorting:43 epoch training loss 0.179005
+INFO:NumberSorting:44 epoch training loss 0.178875
+INFO:NumberSorting:45 epoch training loss 0.178879
+INFO:NumberSorting:46 epoch training loss 0.178909
+INFO:NumberSorting:47 epoch training loss 0.178910
+INFO:NumberSorting:48 epoch training loss 0.178980
+INFO:NumberSorting:49 epoch training loss 0.179075
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.984375
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.191442
+INFO:NumberSorting:1 epoch training loss 0.164870
+INFO:NumberSorting:2 epoch training loss 0.159546
+INFO:NumberSorting:3 epoch training loss 0.159299
+INFO:NumberSorting:4 epoch training loss 0.159108
+INFO:NumberSorting:5 epoch training loss 0.159174
+INFO:NumberSorting:6 epoch training loss 0.159099
+INFO:NumberSorting:7 epoch training loss 0.159362
+INFO:NumberSorting:8 epoch training loss 0.159359
+INFO:NumberSorting:9 epoch training loss 0.159438
+INFO:NumberSorting:10 epoch training loss 0.159614
+INFO:NumberSorting:11 epoch training loss 0.159533
+INFO:NumberSorting:12 epoch training loss 0.159651
+INFO:NumberSorting:13 epoch training loss 0.159826
+INFO:NumberSorting:14 epoch training loss 0.159917
+INFO:NumberSorting:15 epoch training loss 0.159993
+INFO:NumberSorting:16 epoch training loss 0.159993
+INFO:NumberSorting:17 epoch training loss 0.160061
+INFO:NumberSorting:18 epoch training loss 0.160079
+INFO:NumberSorting:19 epoch training loss 0.160167
+INFO:NumberSorting:20 epoch training loss 0.160126
+INFO:NumberSorting:21 epoch training loss 0.160282
+INFO:NumberSorting:22 epoch training loss 0.160258
+INFO:NumberSorting:23 epoch training loss 0.160173
+INFO:NumberSorting:24 epoch training loss 0.160239
+INFO:NumberSorting:25 epoch training loss 0.160231
+INFO:NumberSorting:26 epoch training loss 0.160333
+INFO:NumberSorting:27 epoch training loss 0.160257
+INFO:NumberSorting:28 epoch training loss 0.160307
+INFO:NumberSorting:29 epoch training loss 0.160289
+INFO:NumberSorting:30 epoch training loss 0.160390
+INFO:NumberSorting:31 epoch training loss 0.160342
+INFO:NumberSorting:32 epoch training loss 0.160232
+INFO:NumberSorting:33 epoch training loss 0.160299
+INFO:NumberSorting:34 epoch training loss 0.160326
+INFO:NumberSorting:35 epoch training loss 0.160420
+INFO:NumberSorting:36 epoch training loss 0.160410
+INFO:NumberSorting:37 epoch training loss 0.160248
+INFO:NumberSorting:38 epoch training loss 0.160337
+INFO:NumberSorting:39 epoch training loss 0.160453
+INFO:NumberSorting:40 epoch training loss 0.160487
+INFO:NumberSorting:41 epoch training loss 0.160460
+INFO:NumberSorting:42 epoch training loss 0.160539
+INFO:NumberSorting:43 epoch training loss 0.160521
+INFO:NumberSorting:44 epoch training loss 0.160431
+INFO:NumberSorting:45 epoch training loss 0.160610
+INFO:NumberSorting:46 epoch training loss 0.160534
+INFO:NumberSorting:47 epoch training loss 0.160633
+INFO:NumberSorting:48 epoch training loss 0.160578
+INFO:NumberSorting:49 epoch training loss 0.160847
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.190382
+INFO:NumberSorting:1 epoch training loss 0.188384
+INFO:NumberSorting:2 epoch training loss 0.173571
+INFO:NumberSorting:3 epoch training loss 0.174355
+INFO:NumberSorting:4 epoch training loss 0.173432
+INFO:NumberSorting:5 epoch training loss 0.173755
+INFO:NumberSorting:6 epoch training loss 0.173630
+INFO:NumberSorting:7 epoch training loss 0.173872
+INFO:NumberSorting:8 epoch training loss 0.174169
+INFO:NumberSorting:9 epoch training loss 0.174432
+INFO:NumberSorting:10 epoch training loss 0.174681
+INFO:NumberSorting:11 epoch training loss 0.174826
+INFO:NumberSorting:12 epoch training loss 0.175098
+INFO:NumberSorting:13 epoch training loss 0.175195
+INFO:NumberSorting:14 epoch training loss 0.175476
+INFO:NumberSorting:15 epoch training loss 0.175614
+INFO:NumberSorting:16 epoch training loss 0.175570
+INFO:NumberSorting:17 epoch training loss 0.175774
+INFO:NumberSorting:18 epoch training loss 0.175628
+INFO:NumberSorting:19 epoch training loss 0.175668
+INFO:NumberSorting:20 epoch training loss 0.175896
+INFO:NumberSorting:21 epoch training loss 0.175848
+INFO:NumberSorting:22 epoch training loss 0.175828
+INFO:NumberSorting:23 epoch training loss 0.175732
+INFO:NumberSorting:24 epoch training loss 0.175791
+INFO:NumberSorting:25 epoch training loss 0.175821
+INFO:NumberSorting:26 epoch training loss 0.175885
+INFO:NumberSorting:27 epoch training loss 0.175894
+INFO:NumberSorting:28 epoch training loss 0.175760
+INFO:NumberSorting:29 epoch training loss 0.175820
+INFO:NumberSorting:30 epoch training loss 0.175759
+INFO:NumberSorting:31 epoch training loss 0.175675
+INFO:NumberSorting:32 epoch training loss 0.175763
+INFO:NumberSorting:33 epoch training loss 0.175776
+INFO:NumberSorting:34 epoch training loss 0.175526
+INFO:NumberSorting:35 epoch training loss 0.175538
+INFO:NumberSorting:36 epoch training loss 0.175526
+INFO:NumberSorting:37 epoch training loss 0.175594
+INFO:NumberSorting:38 epoch training loss 0.175604
+INFO:NumberSorting:39 epoch training loss 0.175529
+INFO:NumberSorting:40 epoch training loss 0.175512
+INFO:NumberSorting:41 epoch training loss 0.175574
+INFO:NumberSorting:42 epoch training loss 0.175567
+INFO:NumberSorting:43 epoch training loss 0.175356
+INFO:NumberSorting:44 epoch training loss 0.175435
+INFO:NumberSorting:45 epoch training loss 0.175492
+INFO:NumberSorting:46 epoch training loss 0.175558
+INFO:NumberSorting:47 epoch training loss 0.175578
+INFO:NumberSorting:48 epoch training loss 0.175709
+INFO:NumberSorting:49 epoch training loss 0.175676
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.214409
+INFO:NumberSorting:1 epoch training loss 0.189728
+INFO:NumberSorting:2 epoch training loss 0.174888
+INFO:NumberSorting:3 epoch training loss 0.173668
+INFO:NumberSorting:4 epoch training loss 0.172882
+INFO:NumberSorting:5 epoch training loss 0.172907
+INFO:NumberSorting:6 epoch training loss 0.172829
+INFO:NumberSorting:7 epoch training loss 0.172918
+INFO:NumberSorting:8 epoch training loss 0.173119
+INFO:NumberSorting:9 epoch training loss 0.173375
+INFO:NumberSorting:10 epoch training loss 0.173503
+INFO:NumberSorting:11 epoch training loss 0.173990
+INFO:NumberSorting:12 epoch training loss 0.174054
+INFO:NumberSorting:13 epoch training loss 0.174310
+INFO:NumberSorting:14 epoch training loss 0.174382
+INFO:NumberSorting:15 epoch training loss 0.174675
+INFO:NumberSorting:16 epoch training loss 0.174679
+INFO:NumberSorting:17 epoch training loss 0.174896
+INFO:NumberSorting:18 epoch training loss 0.175006
+INFO:NumberSorting:19 epoch training loss 0.175224
+INFO:NumberSorting:20 epoch training loss 0.175290
+INFO:NumberSorting:21 epoch training loss 0.175307
+INFO:NumberSorting:22 epoch training loss 0.175330
+INFO:NumberSorting:23 epoch training loss 0.175456
+INFO:NumberSorting:24 epoch training loss 0.175457
+INFO:NumberSorting:25 epoch training loss 0.175624
+INFO:NumberSorting:26 epoch training loss 0.175552
+INFO:NumberSorting:27 epoch training loss 0.175661
+INFO:NumberSorting:28 epoch training loss 0.175546
+INFO:NumberSorting:29 epoch training loss 0.175456
+INFO:NumberSorting:30 epoch training loss 0.175710
+INFO:NumberSorting:31 epoch training loss 0.175496
+INFO:NumberSorting:32 epoch training loss 0.175594
+INFO:NumberSorting:33 epoch training loss 0.175412
+INFO:NumberSorting:34 epoch training loss 0.175507
+INFO:NumberSorting:35 epoch training loss 0.175446
+INFO:NumberSorting:36 epoch training loss 0.175535
+INFO:NumberSorting:37 epoch training loss 0.175487
+INFO:NumberSorting:38 epoch training loss 0.175529
+INFO:NumberSorting:39 epoch training loss 0.175502
+INFO:NumberSorting:40 epoch training loss 0.175422
+INFO:NumberSorting:41 epoch training loss 0.175377
+INFO:NumberSorting:42 epoch training loss 0.175353
+INFO:NumberSorting:43 epoch training loss 0.175395
+INFO:NumberSorting:44 epoch training loss 0.175413
+INFO:NumberSorting:45 epoch training loss 0.175361
+INFO:NumberSorting:46 epoch training loss 0.175354
+INFO:NumberSorting:47 epoch training loss 0.175491
+INFO:NumberSorting:48 epoch training loss 0.175248
+INFO:NumberSorting:49 epoch training loss 0.175355
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.968750
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.984375
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 1.000000
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Mean Prop Wrongs 0.984375
+INFO:NumberSorting:Mean Prop Any Wrongs 1.000000
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:0 epoch training loss 0.206218
+INFO:NumberSorting:1 epoch training loss 0.185719
+INFO:NumberSorting:2 epoch training loss 0.175836
+INFO:NumberSorting:3 epoch training loss 0.174411
+INFO:NumberSorting:4 epoch training loss 0.173784
+INFO:NumberSorting:5 epoch training loss 0.173762
+INFO:NumberSorting:6 epoch training loss 0.173301
+INFO:NumberSorting:7 epoch training loss 0.173718
+INFO:NumberSorting:8 epoch training loss 0.173733
+INFO:NumberSorting:9 epoch training loss 0.173847
+INFO:NumberSorting:10 epoch training loss 0.173974
+INFO:NumberSorting:11 epoch training loss 0.173942
+INFO:NumberSorting:12 epoch training loss 0.174125
+INFO:NumberSorting:13 epoch training loss 0.174110
+INFO:NumberSorting:14 epoch training loss 0.174062
+INFO:NumberSorting:15 epoch training loss 0.174240
+INFO:NumberSorting:16 epoch training loss 0.174231
+INFO:NumberSorting:17 epoch training loss 0.174080
+INFO:NumberSorting:18 epoch training loss 0.174059
+INFO:NumberSorting:19 epoch training loss 0.174044
+INFO:NumberSorting:20 epoch training loss 0.173984
+INFO:NumberSorting:21 epoch training loss 0.173943
+INFO:NumberSorting:22 epoch training loss 0.174012
+INFO:NumberSorting:23 epoch training loss 0.173812
+INFO:NumberSorting:24 epoch training loss 0.173855
+INFO:NumberSorting:25 epoch training loss 0.173887
+INFO:NumberSorting:26 epoch training loss 0.173892
+INFO:NumberSorting:27 epoch training loss 0.173685
+INFO:NumberSorting:28 epoch training loss 0.173723
+INFO:NumberSorting:29 epoch training loss 0.173850
+INFO:NumberSorting:30 epoch training loss 0.173772
+INFO:NumberSorting:31 epoch training loss 0.173784
+INFO:NumberSorting:32 epoch training loss 0.173696
+INFO:NumberSorting:33 epoch training loss 0.173735
+INFO:NumberSorting:34 epoch training loss 0.173745
+INFO:NumberSorting:35 epoch training loss 0.173895
+INFO:NumberSorting:36 epoch training loss 0.173800
+INFO:NumberSorting:37 epoch training loss 0.173829
+INFO:NumberSorting:38 epoch training loss 0.173902
+INFO:NumberSorting:39 epoch training loss 0.173787
+INFO:NumberSorting:40 epoch training loss 0.173495
+INFO:NumberSorting:41 epoch training loss 0.173896
+INFO:NumberSorting:42 epoch training loss 0.174115
+INFO:NumberSorting:43 epoch training loss 0.173987
+INFO:NumberSorting:44 epoch training loss 0.174031
+INFO:NumberSorting:45 epoch training loss 0.174089
+INFO:NumberSorting:46 epoch training loss 0.174060
+INFO:NumberSorting:47 epoch training loss 0.173960
+INFO:NumberSorting:48 epoch training loss 0.174122
+INFO:NumberSorting:49 epoch training loss 0.174106
+INFO:NumberSorting:50 epoch training loss 0.174180
+INFO:NumberSorting:51 epoch training loss 0.174106
+INFO:NumberSorting:52 epoch training loss 0.174156
+INFO:NumberSorting:53 epoch training loss 0.174165
+INFO:NumberSorting:54 epoch training loss 0.174319
+INFO:NumberSorting:55 epoch training loss 0.174308
+INFO:NumberSorting:56 epoch training loss 0.174324
+INFO:NumberSorting:57 epoch training loss 0.174395
+INFO:NumberSorting:58 epoch training loss 0.174349
+INFO:NumberSorting:59 epoch training loss 0.174392
+INFO:NumberSorting:60 epoch training loss 0.174150
+INFO:NumberSorting:61 epoch training loss 0.174497
+INFO:NumberSorting:62 epoch training loss 0.174434
+INFO:NumberSorting:63 epoch training loss 0.174336
+INFO:NumberSorting:64 epoch training loss 0.174472
+INFO:NumberSorting:65 epoch training loss 0.174591
+INFO:NumberSorting:66 epoch training loss 0.174484
+INFO:NumberSorting:67 epoch training loss 0.174560
+INFO:NumberSorting:68 epoch training loss 0.174684
+INFO:NumberSorting:69 epoch training loss 0.174586
+INFO:NumberSorting:70 epoch training loss 0.174610
+INFO:NumberSorting:71 epoch training loss 0.174505
+INFO:NumberSorting:72 epoch training loss 0.174685
+INFO:NumberSorting:73 epoch training loss 0.174754
+INFO:NumberSorting:74 epoch training loss 0.174623
+INFO:NumberSorting:75 epoch training loss 0.174615
+INFO:NumberSorting:76 epoch training loss 0.174709
+INFO:NumberSorting:77 epoch training loss 0.174612
+INFO:NumberSorting:78 epoch training loss 0.174843
+INFO:NumberSorting:79 epoch training loss 0.174911
+INFO:NumberSorting:80 epoch training loss 0.174784
+INFO:NumberSorting:81 epoch training loss 0.174799
+INFO:NumberSorting:82 epoch training loss 0.174856
+INFO:NumberSorting:83 epoch training loss 0.174824
+INFO:NumberSorting:84 epoch training loss 0.174877
+INFO:NumberSorting:85 epoch training loss 0.174945
+INFO:NumberSorting:86 epoch training loss 0.174826
+INFO:NumberSorting:87 epoch training loss 0.175082
+INFO:NumberSorting:88 epoch training loss 0.175016
+INFO:NumberSorting:89 epoch training loss 0.175046
+INFO:NumberSorting:90 epoch training loss 0.175024
+INFO:NumberSorting:91 epoch training loss 0.175052
+INFO:NumberSorting:92 epoch training loss 0.175031
+INFO:NumberSorting:93 epoch training loss 0.175009
+INFO:NumberSorting:94 epoch training loss 0.174999
+INFO:NumberSorting:95 epoch training loss 0.175181
+INFO:NumberSorting:96 epoch training loss 0.175099
+INFO:NumberSorting:97 epoch training loss 0.175132
+INFO:NumberSorting:98 epoch training loss 0.175184
+INFO:NumberSorting:99 epoch training loss 0.175165
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=50, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=8, epochs=25, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 0.918140
+INFO:NumberSorting:1 epoch training loss 0.886332
+INFO:NumberSorting:2 epoch training loss 0.941258
+INFO:NumberSorting:3 epoch training loss 0.905081
+INFO:NumberSorting:4 epoch training loss 0.902931
+INFO:NumberSorting:5 epoch training loss 0.844699
+INFO:NumberSorting:6 epoch training loss 0.879229
+INFO:NumberSorting:7 epoch training loss 0.910304
+INFO:NumberSorting:8 epoch training loss 0.938549
+INFO:NumberSorting:9 epoch training loss 0.922919
+INFO:NumberSorting:evaluation
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 0.928634
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 0.921976
+INFO:NumberSorting:1 epoch training loss 0.961169
+INFO:NumberSorting:2 epoch training loss 0.900949
+INFO:NumberSorting:3 epoch training loss 0.911961
+INFO:NumberSorting:4 epoch training loss 0.923617
+INFO:NumberSorting:5 epoch training loss 0.920674
+INFO:NumberSorting:6 epoch training loss 0.951844
+INFO:NumberSorting:7 epoch training loss 0.893867
+INFO:NumberSorting:8 epoch training loss 0.895808
+INFO:NumberSorting:9 epoch training loss 0.943937
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 2.858370
+INFO:NumberSorting:1 epoch training loss 2.993243
+INFO:NumberSorting:2 epoch training loss 2.848975
+INFO:NumberSorting:3 epoch training loss 2.834246
+INFO:NumberSorting:4 epoch training loss 2.765268
+INFO:NumberSorting:5 epoch training loss 2.940349
+INFO:NumberSorting:6 epoch training loss 2.825320
+INFO:NumberSorting:7 epoch training loss 2.863879
+INFO:NumberSorting:8 epoch training loss 2.958771
+INFO:NumberSorting:9 epoch training loss 2.835186
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 1.452634
+INFO:NumberSorting:1 epoch training loss 1.266803
+INFO:NumberSorting:2 epoch training loss 1.342669
+INFO:NumberSorting:3 epoch training loss 1.389213
+INFO:NumberSorting:4 epoch training loss 1.306832
+INFO:NumberSorting:5 epoch training loss 1.327153
+INFO:NumberSorting:6 epoch training loss 1.418872
+INFO:NumberSorting:7 epoch training loss 1.337086
+INFO:NumberSorting:8 epoch training loss 1.347440
+INFO:NumberSorting:9 epoch training loss 1.445073
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=50, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 1.115170
+INFO:NumberSorting:1 epoch training loss 1.304204
+INFO:NumberSorting:2 epoch training loss 1.148337
+INFO:NumberSorting:3 epoch training loss 1.148489
+INFO:NumberSorting:4 epoch training loss 1.031174
+INFO:NumberSorting:5 epoch training loss 1.259107
+INFO:NumberSorting:6 epoch training loss 1.185523
+INFO:NumberSorting:7 epoch training loss 1.088306
+INFO:NumberSorting:8 epoch training loss 1.251306
+INFO:NumberSorting:9 epoch training loss 1.351660
+INFO:NumberSorting:10 epoch training loss 1.179600
+INFO:NumberSorting:11 epoch training loss 1.281286
+INFO:NumberSorting:12 epoch training loss 1.132476
+INFO:NumberSorting:13 epoch training loss 1.192572
+INFO:NumberSorting:14 epoch training loss 1.229833
+INFO:NumberSorting:15 epoch training loss 1.126987
+INFO:NumberSorting:16 epoch training loss 1.147969
+INFO:NumberSorting:17 epoch training loss 1.369347
+INFO:NumberSorting:18 epoch training loss 1.103466
+INFO:NumberSorting:19 epoch training loss 1.200414
+INFO:NumberSorting:20 epoch training loss 1.061465
+INFO:NumberSorting:21 epoch training loss 1.066443
+INFO:NumberSorting:22 epoch training loss 1.175018
+INFO:NumberSorting:23 epoch training loss 1.415348
+INFO:NumberSorting:24 epoch training loss 1.453769
+INFO:NumberSorting:25 epoch training loss 1.159974
+INFO:NumberSorting:26 epoch training loss 1.048306
+INFO:NumberSorting:27 epoch training loss 1.053659
+INFO:NumberSorting:28 epoch training loss 1.344047
+INFO:NumberSorting:29 epoch training loss 1.145994
+INFO:NumberSorting:30 epoch training loss 1.118579
+INFO:NumberSorting:31 epoch training loss 1.144742
+INFO:NumberSorting:32 epoch training loss 1.143882
+INFO:NumberSorting:33 epoch training loss 1.106880
+INFO:NumberSorting:34 epoch training loss 1.225144
+INFO:NumberSorting:35 epoch training loss 1.190716
+INFO:NumberSorting:36 epoch training loss 1.241494
+INFO:NumberSorting:37 epoch training loss 1.127667
+INFO:NumberSorting:38 epoch training loss 1.133595
+INFO:NumberSorting:39 epoch training loss 1.092709
+INFO:NumberSorting:40 epoch training loss 1.262166
+INFO:NumberSorting:41 epoch training loss 1.182485
+INFO:NumberSorting:42 epoch training loss 1.157063
+INFO:NumberSorting:43 epoch training loss 1.200148
+INFO:NumberSorting:44 epoch training loss 1.154382
+INFO:NumberSorting:45 epoch training loss 1.129038
+INFO:NumberSorting:46 epoch training loss 1.169065
+INFO:NumberSorting:47 epoch training loss 1.188094
+INFO:NumberSorting:48 epoch training loss 1.052917
+INFO:NumberSorting:49 epoch training loss 1.611023
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 0.922308
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 0.942365
+INFO:NumberSorting:1 epoch training loss 0.905701
+INFO:NumberSorting:2 epoch training loss 0.901337
+INFO:NumberSorting:3 epoch training loss 0.930376
+INFO:NumberSorting:4 epoch training loss 0.950867
+INFO:NumberSorting:5 epoch training loss 0.928891
+INFO:NumberSorting:6 epoch training loss 0.923083
+INFO:NumberSorting:7 epoch training loss 0.953622
+INFO:NumberSorting:8 epoch training loss 0.865033
+INFO:NumberSorting:9 epoch training loss 0.948410
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 0.907266
+INFO:NumberSorting:1 epoch training loss 0.921859
+INFO:NumberSorting:2 epoch training loss 0.901877
+INFO:NumberSorting:3 epoch training loss 0.901198
+INFO:NumberSorting:4 epoch training loss 0.907298
+INFO:NumberSorting:5 epoch training loss 0.876241
+INFO:NumberSorting:6 epoch training loss 0.941884
+INFO:NumberSorting:7 epoch training loss 0.950202
+INFO:NumberSorting:8 epoch training loss 0.917933
+INFO:NumberSorting:9 epoch training loss 0.910389
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 0.934500
+INFO:NumberSorting:1 epoch training loss 0.896827
+INFO:NumberSorting:2 epoch training loss 0.932312
+INFO:NumberSorting:3 epoch training loss 0.918351
+INFO:NumberSorting:4 epoch training loss 0.869138
+INFO:NumberSorting:5 epoch training loss 0.930681
+INFO:NumberSorting:6 epoch training loss 0.908969
+INFO:NumberSorting:7 epoch training loss 0.872723
+INFO:NumberSorting:8 epoch training loss 0.903108
+INFO:NumberSorting:9 epoch training loss 0.884322
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=64, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=4, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=300, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 1748.004028
+INFO:NumberSorting:1 epoch training loss 1640.819336
+INFO:NumberSorting:2 epoch training loss 1497.488525
+INFO:NumberSorting:3 epoch training loss 1625.959106
+INFO:NumberSorting:4 epoch training loss 1846.675293
+INFO:NumberSorting:5 epoch training loss 1645.085938
+INFO:NumberSorting:6 epoch training loss 1536.777466
+INFO:NumberSorting:7 epoch training loss 1632.277710
+INFO:NumberSorting:8 epoch training loss 1619.960205
+INFO:NumberSorting:9 epoch training loss 1635.770874
+INFO:NumberSorting:10 epoch training loss 1548.135986
+INFO:NumberSorting:11 epoch training loss 1892.369995
+INFO:NumberSorting:12 epoch training loss 1757.955566
+INFO:NumberSorting:13 epoch training loss 1671.503906
+INFO:NumberSorting:14 epoch training loss 1701.882080
+INFO:NumberSorting:15 epoch training loss 1751.837769
+INFO:NumberSorting:16 epoch training loss 1726.578247
+INFO:NumberSorting:17 epoch training loss 1609.490356
+INFO:NumberSorting:18 epoch training loss 1530.507080
+INFO:NumberSorting:19 epoch training loss 1731.063354
+INFO:NumberSorting:20 epoch training loss 1751.341553
+INFO:NumberSorting:21 epoch training loss 1670.874146
+INFO:NumberSorting:22 epoch training loss 1743.376953
+INFO:NumberSorting:23 epoch training loss 1695.614624
+INFO:NumberSorting:24 epoch training loss 1773.590210
+INFO:NumberSorting:25 epoch training loss 1717.728638
+INFO:NumberSorting:26 epoch training loss 1464.692505
+INFO:NumberSorting:27 epoch training loss 1810.299194
+INFO:NumberSorting:28 epoch training loss 1669.290527
+INFO:NumberSorting:29 epoch training loss 1579.680420
+INFO:NumberSorting:30 epoch training loss 1636.019531
+INFO:NumberSorting:31 epoch training loss 1598.413818
+INFO:NumberSorting:32 epoch training loss 1614.940063
+INFO:NumberSorting:33 epoch training loss 1666.006226
+INFO:NumberSorting:34 epoch training loss 1641.630005
+INFO:NumberSorting:35 epoch training loss 1766.213623
+INFO:NumberSorting:36 epoch training loss 1663.928345
+INFO:NumberSorting:37 epoch training loss 1797.377441
+INFO:NumberSorting:38 epoch training loss 1710.430786
+INFO:NumberSorting:39 epoch training loss 1761.740479
+INFO:NumberSorting:40 epoch training loss 1682.716797
+INFO:NumberSorting:41 epoch training loss 1742.695679
+INFO:NumberSorting:42 epoch training loss 1695.963867
+INFO:NumberSorting:43 epoch training loss 1616.821655
+INFO:NumberSorting:44 epoch training loss 1687.474243
+INFO:NumberSorting:45 epoch training loss 1701.919189
+INFO:NumberSorting:46 epoch training loss 1875.193604
+INFO:NumberSorting:47 epoch training loss 1737.470093
+INFO:NumberSorting:48 epoch training loss 1707.537720
+INFO:NumberSorting:49 epoch training loss 1630.579346
+INFO:NumberSorting:50 epoch training loss 1696.802612
+INFO:NumberSorting:51 epoch training loss 1759.942993
+INFO:NumberSorting:52 epoch training loss 1590.731201
+INFO:NumberSorting:53 epoch training loss 1679.537354
+INFO:NumberSorting:54 epoch training loss 1548.818970
+INFO:NumberSorting:55 epoch training loss 1658.139526
+INFO:NumberSorting:56 epoch training loss 1606.970947
+INFO:NumberSorting:57 epoch training loss 1656.977295
+INFO:NumberSorting:58 epoch training loss 1718.179199
+INFO:NumberSorting:59 epoch training loss 1687.619385
+INFO:NumberSorting:60 epoch training loss 1699.290161
+INFO:NumberSorting:61 epoch training loss 1678.652954
+INFO:NumberSorting:62 epoch training loss 1503.389282
+INFO:NumberSorting:63 epoch training loss 1707.391846
+INFO:NumberSorting:64 epoch training loss 1668.017822
+INFO:NumberSorting:65 epoch training loss 1622.714844
+INFO:NumberSorting:66 epoch training loss 1665.596558
+INFO:NumberSorting:67 epoch training loss 1612.281738
+INFO:NumberSorting:68 epoch training loss 1646.608154
+INFO:NumberSorting:69 epoch training loss 1746.709839
+INFO:NumberSorting:70 epoch training loss 1774.403809
+INFO:NumberSorting:71 epoch training loss 1714.270020
+INFO:NumberSorting:72 epoch training loss 1656.247192
+INFO:NumberSorting:73 epoch training loss 1678.372803
+INFO:NumberSorting:74 epoch training loss 1644.003906
+INFO:NumberSorting:75 epoch training loss 1741.333618
+INFO:NumberSorting:76 epoch training loss 1633.561035
+INFO:NumberSorting:77 epoch training loss 1741.322998
+INFO:NumberSorting:78 epoch training loss 1609.009521
+INFO:NumberSorting:79 epoch training loss 1771.586914
+INFO:NumberSorting:80 epoch training loss 1637.106079
+INFO:NumberSorting:81 epoch training loss 1753.320190
+INFO:NumberSorting:82 epoch training loss 1701.361084
+INFO:NumberSorting:83 epoch training loss 1832.677856
+INFO:NumberSorting:84 epoch training loss 1642.363037
+INFO:NumberSorting:85 epoch training loss 1641.923584
+INFO:NumberSorting:86 epoch training loss 1748.468994
+INFO:NumberSorting:87 epoch training loss 1692.306763
+INFO:NumberSorting:88 epoch training loss 1752.367432
+INFO:NumberSorting:89 epoch training loss 1730.068604
+INFO:NumberSorting:90 epoch training loss 1440.428833
+INFO:NumberSorting:91 epoch training loss 1611.162842
+INFO:NumberSorting:92 epoch training loss 1689.730225
+INFO:NumberSorting:93 epoch training loss 1599.008179
+INFO:NumberSorting:94 epoch training loss 1780.207275
+INFO:NumberSorting:95 epoch training loss 1701.901978
+INFO:NumberSorting:96 epoch training loss 1748.200073
+INFO:NumberSorting:97 epoch training loss 1681.713257
+INFO:NumberSorting:98 epoch training loss 1751.400635
+INFO:NumberSorting:99 epoch training loss 1712.075562
+INFO:NumberSorting:100 epoch training loss 1708.694214
+INFO:NumberSorting:101 epoch training loss 1593.699219
+INFO:NumberSorting:102 epoch training loss 1553.142090
+INFO:NumberSorting:103 epoch training loss 1849.294434
+INFO:NumberSorting:104 epoch training loss 1789.320557
+INFO:NumberSorting:105 epoch training loss 1668.968262
+INFO:NumberSorting:106 epoch training loss 1734.209961
+INFO:NumberSorting:107 epoch training loss 1614.101440
+INFO:NumberSorting:108 epoch training loss 1708.176880
+INFO:NumberSorting:109 epoch training loss 1677.294067
+INFO:NumberSorting:110 epoch training loss 1631.712524
+INFO:NumberSorting:111 epoch training loss 1693.792480
+INFO:NumberSorting:112 epoch training loss 1645.351685
+INFO:NumberSorting:113 epoch training loss 1528.207520
+INFO:NumberSorting:114 epoch training loss 1744.393311
+INFO:NumberSorting:115 epoch training loss 1683.945557
+INFO:NumberSorting:116 epoch training loss 1849.147583
+INFO:NumberSorting:117 epoch training loss 1797.228638
+INFO:NumberSorting:118 epoch training loss 1691.722534
+INFO:NumberSorting:119 epoch training loss 1703.076782
+INFO:NumberSorting:120 epoch training loss 1686.065552
+INFO:NumberSorting:121 epoch training loss 1632.534790
+INFO:NumberSorting:122 epoch training loss 1554.032227
+INFO:NumberSorting:123 epoch training loss 1824.805176
+INFO:NumberSorting:124 epoch training loss 1681.522827
+INFO:NumberSorting:125 epoch training loss 1658.814697
+INFO:NumberSorting:126 epoch training loss 1570.875977
+INFO:NumberSorting:127 epoch training loss 1698.561768
+INFO:NumberSorting:128 epoch training loss 1558.424438
+INFO:NumberSorting:129 epoch training loss 1762.887695
+INFO:NumberSorting:130 epoch training loss 1779.111694
+INFO:NumberSorting:131 epoch training loss 1705.346191
+INFO:NumberSorting:132 epoch training loss 1693.451172
+INFO:NumberSorting:133 epoch training loss 1648.087158
+INFO:NumberSorting:134 epoch training loss 1743.278442
+INFO:NumberSorting:135 epoch training loss 1713.505981
+INFO:NumberSorting:136 epoch training loss 1855.375610
+INFO:NumberSorting:137 epoch training loss 1691.167725
+INFO:NumberSorting:138 epoch training loss 1698.109985
+INFO:NumberSorting:139 epoch training loss 1592.168579
+INFO:NumberSorting:140 epoch training loss 1649.455566
+INFO:NumberSorting:141 epoch training loss 1678.916016
+INFO:NumberSorting:142 epoch training loss 1605.546753
+INFO:NumberSorting:143 epoch training loss 1730.130981
+INFO:NumberSorting:144 epoch training loss 1609.142456
+INFO:NumberSorting:145 epoch training loss 1704.308594
+INFO:NumberSorting:146 epoch training loss 1709.739990
+INFO:NumberSorting:147 epoch training loss 1769.402588
+INFO:NumberSorting:148 epoch training loss 1496.392944
+INFO:NumberSorting:149 epoch training loss 1724.221069
+INFO:NumberSorting:150 epoch training loss 1668.676147
+INFO:NumberSorting:151 epoch training loss 1637.782471
+INFO:NumberSorting:152 epoch training loss 1618.226440
+INFO:NumberSorting:153 epoch training loss 1620.051025
+INFO:NumberSorting:154 epoch training loss 1703.401367
+INFO:NumberSorting:155 epoch training loss 1751.044067
+INFO:NumberSorting:156 epoch training loss 1694.506226
+INFO:NumberSorting:157 epoch training loss 1692.956909
+INFO:NumberSorting:158 epoch training loss 1623.296753
+INFO:NumberSorting:159 epoch training loss 1766.932861
+INFO:NumberSorting:160 epoch training loss 1561.399780
+INFO:NumberSorting:161 epoch training loss 1761.684326
+INFO:NumberSorting:162 epoch training loss 1700.229492
+INFO:NumberSorting:163 epoch training loss 1712.259888
+INFO:NumberSorting:164 epoch training loss 1742.565063
+INFO:NumberSorting:165 epoch training loss 1660.139771
+INFO:NumberSorting:166 epoch training loss 1656.773926
+INFO:NumberSorting:167 epoch training loss 1583.585815
+INFO:NumberSorting:168 epoch training loss 1704.980957
+INFO:NumberSorting:169 epoch training loss 1765.761597
+INFO:NumberSorting:170 epoch training loss 1753.498901
+INFO:NumberSorting:171 epoch training loss 1598.582031
+INFO:NumberSorting:172 epoch training loss 1655.808472
+INFO:NumberSorting:173 epoch training loss 1657.231079
+INFO:NumberSorting:174 epoch training loss 1688.419434
+INFO:NumberSorting:175 epoch training loss 1697.519653
+INFO:NumberSorting:176 epoch training loss 1646.084717
+INFO:NumberSorting:177 epoch training loss 1667.052368
+INFO:NumberSorting:178 epoch training loss 1809.005005
+INFO:NumberSorting:179 epoch training loss 1734.889404
+INFO:NumberSorting:180 epoch training loss 1592.312866
+INFO:NumberSorting:181 epoch training loss 1776.260132
+INFO:NumberSorting:182 epoch training loss 1603.430908
+INFO:NumberSorting:183 epoch training loss 1666.841675
+INFO:NumberSorting:184 epoch training loss 1598.183838
+INFO:NumberSorting:185 epoch training loss 1611.689087
+INFO:NumberSorting:186 epoch training loss 1698.839355
+INFO:NumberSorting:187 epoch training loss 1654.229736
+INFO:NumberSorting:188 epoch training loss 1746.122192
+INFO:NumberSorting:189 epoch training loss 1686.664307
+INFO:NumberSorting:190 epoch training loss 1842.548462
+INFO:NumberSorting:191 epoch training loss 1638.201172
+INFO:NumberSorting:192 epoch training loss 1662.038452
+INFO:NumberSorting:193 epoch training loss 1692.000244
+INFO:NumberSorting:194 epoch training loss 1587.405396
+INFO:NumberSorting:195 epoch training loss 1704.040039
+INFO:NumberSorting:196 epoch training loss 1750.231323
+INFO:NumberSorting:197 epoch training loss 1674.036621
+INFO:NumberSorting:198 epoch training loss 1642.863892
+INFO:NumberSorting:199 epoch training loss 1755.262939
+INFO:NumberSorting:200 epoch training loss 1726.208984
+INFO:NumberSorting:201 epoch training loss 1649.177490
+INFO:NumberSorting:202 epoch training loss 1719.803711
+INFO:NumberSorting:203 epoch training loss 1673.905151
+INFO:NumberSorting:204 epoch training loss 1689.003418
+INFO:NumberSorting:205 epoch training loss 1644.911499
+INFO:NumberSorting:206 epoch training loss 1645.982422
+INFO:NumberSorting:207 epoch training loss 1646.044189
+INFO:NumberSorting:208 epoch training loss 1722.550415
+INFO:NumberSorting:209 epoch training loss 1723.091797
+INFO:NumberSorting:210 epoch training loss 1742.117188
+INFO:NumberSorting:211 epoch training loss 1693.534912
+INFO:NumberSorting:212 epoch training loss 1788.036865
+INFO:NumberSorting:213 epoch training loss 1531.983643
+INFO:NumberSorting:214 epoch training loss 1635.497681
+INFO:NumberSorting:215 epoch training loss 1536.425537
+INFO:NumberSorting:216 epoch training loss 1860.959595
+INFO:NumberSorting:217 epoch training loss 1730.376343
+INFO:NumberSorting:218 epoch training loss 1475.300171
+INFO:NumberSorting:219 epoch training loss 1665.430786
+INFO:NumberSorting:220 epoch training loss 1754.611572
+INFO:NumberSorting:221 epoch training loss 1621.994141
+INFO:NumberSorting:222 epoch training loss 1628.797974
+INFO:NumberSorting:223 epoch training loss 1705.433350
+INFO:NumberSorting:224 epoch training loss 1669.060059
+INFO:NumberSorting:225 epoch training loss 1765.368652
+INFO:NumberSorting:226 epoch training loss 1689.948608
+INFO:NumberSorting:227 epoch training loss 1598.772949
+INFO:NumberSorting:228 epoch training loss 1694.445679
+INFO:NumberSorting:229 epoch training loss 1544.540283
+INFO:NumberSorting:230 epoch training loss 1581.744751
+INFO:NumberSorting:231 epoch training loss 1694.372681
+INFO:NumberSorting:232 epoch training loss 1708.946045
+INFO:NumberSorting:233 epoch training loss 1643.931152
+INFO:NumberSorting:234 epoch training loss 1730.523560
+INFO:NumberSorting:235 epoch training loss 1775.518921
+INFO:NumberSorting:236 epoch training loss 1781.605957
+INFO:NumberSorting:237 epoch training loss 1753.208008
+INFO:NumberSorting:238 epoch training loss 1726.235229
+INFO:NumberSorting:239 epoch training loss 1631.654053
+INFO:NumberSorting:240 epoch training loss 1624.976440
+INFO:NumberSorting:241 epoch training loss 1555.345947
+INFO:NumberSorting:242 epoch training loss 1754.377075
+INFO:NumberSorting:243 epoch training loss 1600.549927
+INFO:NumberSorting:244 epoch training loss 1765.664185
+INFO:NumberSorting:245 epoch training loss 1548.602905
+INFO:NumberSorting:246 epoch training loss 1699.320679
+INFO:NumberSorting:247 epoch training loss 1649.984619
+INFO:NumberSorting:248 epoch training loss 1687.391235
+INFO:NumberSorting:249 epoch training loss 1646.839844
+INFO:NumberSorting:250 epoch training loss 1648.257812
+INFO:NumberSorting:251 epoch training loss 1687.818359
+INFO:NumberSorting:252 epoch training loss 1668.766113
+INFO:NumberSorting:253 epoch training loss 1525.870361
+INFO:NumberSorting:254 epoch training loss 1758.166992
+INFO:NumberSorting:255 epoch training loss 1632.067993
+INFO:NumberSorting:256 epoch training loss 1732.670410
+INFO:NumberSorting:257 epoch training loss 1654.822510
+INFO:NumberSorting:258 epoch training loss 1766.403442
+INFO:NumberSorting:259 epoch training loss 1679.576904
+INFO:NumberSorting:260 epoch training loss 1749.128052
+INFO:NumberSorting:261 epoch training loss 1653.820679
+INFO:NumberSorting:262 epoch training loss 1735.580200
+INFO:NumberSorting:263 epoch training loss 1603.674683
+INFO:NumberSorting:264 epoch training loss 1646.777710
+INFO:NumberSorting:265 epoch training loss 1527.075806
+INFO:NumberSorting:266 epoch training loss 1637.604248
+INFO:NumberSorting:267 epoch training loss 1593.988892
+INFO:NumberSorting:268 epoch training loss 1627.851807
+INFO:NumberSorting:269 epoch training loss 1510.577148
+INFO:NumberSorting:270 epoch training loss 1655.926392
+INFO:NumberSorting:271 epoch training loss 1677.229126
+INFO:NumberSorting:272 epoch training loss 1607.864136
+INFO:NumberSorting:273 epoch training loss 1737.671509
+INFO:NumberSorting:274 epoch training loss 1661.177002
+INFO:NumberSorting:275 epoch training loss 1568.358765
+INFO:NumberSorting:276 epoch training loss 1693.363647
+INFO:NumberSorting:277 epoch training loss 1898.255493
+INFO:NumberSorting:278 epoch training loss 1804.296021
+INFO:NumberSorting:279 epoch training loss 1572.718140
+INFO:NumberSorting:280 epoch training loss 1617.778442
+INFO:NumberSorting:281 epoch training loss 1712.806641
+INFO:NumberSorting:282 epoch training loss 1810.470093
+INFO:NumberSorting:283 epoch training loss 1742.793823
+INFO:NumberSorting:284 epoch training loss 1700.785278
+INFO:NumberSorting:285 epoch training loss 1589.999268
+INFO:NumberSorting:286 epoch training loss 1660.944824
+INFO:NumberSorting:287 epoch training loss 1560.544922
+INFO:NumberSorting:288 epoch training loss 1683.699097
+INFO:NumberSorting:289 epoch training loss 1711.969971
+INFO:NumberSorting:290 epoch training loss 1753.651855
+INFO:NumberSorting:291 epoch training loss 1605.387085
+INFO:NumberSorting:292 epoch training loss 1700.037720
+INFO:NumberSorting:293 epoch training loss 1589.289795
+INFO:NumberSorting:294 epoch training loss 1726.547241
+INFO:NumberSorting:295 epoch training loss 1758.663940
+INFO:NumberSorting:296 epoch training loss 1582.953369
+INFO:NumberSorting:297 epoch training loss 1655.301758
+INFO:NumberSorting:298 epoch training loss 1707.527588
+INFO:NumberSorting:299 epoch training loss 1636.285889
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=10, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 1783.837402
+INFO:NumberSorting:1 epoch training loss 1666.589600
+INFO:NumberSorting:2 epoch training loss 1564.520752
+INFO:NumberSorting:3 epoch training loss 1756.573242
+INFO:NumberSorting:4 epoch training loss 1686.520874
+INFO:NumberSorting:5 epoch training loss 1829.662354
+INFO:NumberSorting:6 epoch training loss 1703.600708
+INFO:NumberSorting:7 epoch training loss 1570.609863
+INFO:NumberSorting:8 epoch training loss 1663.856689
+INFO:NumberSorting:9 epoch training loss 1654.479736
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 1684.272949
+INFO:NumberSorting:1 epoch training loss 1791.325684
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
+INFO:NumberSorting:0 epoch training loss 2.458374
+INFO:NumberSorting:1 epoch training loss 2.483244
+INFO:NumberSorting:2 epoch training loss 2.969754
+INFO:NumberSorting:3 epoch training loss 1.263845
+INFO:NumberSorting:4 epoch training loss 1.539689
+INFO:NumberSorting:5 epoch training loss 2.234535
+INFO:NumberSorting:6 epoch training loss 2.082682
+INFO:NumberSorting:7 epoch training loss 1.333775
+INFO:NumberSorting:8 epoch training loss 1.387233
+INFO:NumberSorting:9 epoch training loss 1.770487
+INFO:NumberSorting:10 epoch training loss 1.736594
+INFO:NumberSorting:11 epoch training loss 1.513957
+INFO:NumberSorting:12 epoch training loss 1.559157
+INFO:NumberSorting:13 epoch training loss 1.972061
+INFO:NumberSorting:14 epoch training loss 1.721298
+INFO:NumberSorting:15 epoch training loss 1.869129
+INFO:NumberSorting:16 epoch training loss 1.538952
+INFO:NumberSorting:17 epoch training loss 2.252819
+INFO:NumberSorting:18 epoch training loss 1.584002
+INFO:NumberSorting:19 epoch training loss 1.889772
+INFO:NumberSorting:20 epoch training loss 2.198069
+INFO:NumberSorting:21 epoch training loss 1.856159
+INFO:NumberSorting:22 epoch training loss 1.993257
+INFO:NumberSorting:23 epoch training loss 1.801419
+INFO:NumberSorting:24 epoch training loss 3.029214
+INFO:NumberSorting:25 epoch training loss 2.224573
+INFO:NumberSorting:26 epoch training loss 1.710556
+INFO:NumberSorting:27 epoch training loss 1.471556
+INFO:NumberSorting:28 epoch training loss 1.632708
+INFO:NumberSorting:29 epoch training loss 1.642456
+INFO:NumberSorting:30 epoch training loss 1.725145
+INFO:NumberSorting:31 epoch training loss 1.564146
+INFO:NumberSorting:32 epoch training loss 1.646854
+INFO:NumberSorting:33 epoch training loss 2.026371
+INFO:NumberSorting:34 epoch training loss 1.558802
+INFO:NumberSorting:35 epoch training loss 1.824751
+INFO:NumberSorting:36 epoch training loss 1.279247
+INFO:NumberSorting:37 epoch training loss 1.627587
+INFO:NumberSorting:38 epoch training loss 1.788374
+INFO:NumberSorting:39 epoch training loss 1.727250
+INFO:NumberSorting:40 epoch training loss 1.874094
+INFO:NumberSorting:41 epoch training loss 1.592672
+INFO:NumberSorting:42 epoch training loss 1.410749
+INFO:NumberSorting:43 epoch training loss 2.012605
+INFO:NumberSorting:44 epoch training loss 1.647793
+INFO:NumberSorting:45 epoch training loss 1.405053
+INFO:NumberSorting:46 epoch training loss 1.562351
+INFO:NumberSorting:47 epoch training loss 1.792970
+INFO:NumberSorting:48 epoch training loss 1.654126
+INFO:NumberSorting:49 epoch training loss 1.962641
+INFO:NumberSorting:50 epoch training loss 1.924806
+INFO:NumberSorting:51 epoch training loss 1.955656
+INFO:NumberSorting:52 epoch training loss 2.362826
+INFO:NumberSorting:53 epoch training loss 2.001032
+INFO:NumberSorting:54 epoch training loss 2.154955
+INFO:NumberSorting:55 epoch training loss 1.903414
+INFO:NumberSorting:56 epoch training loss 1.768427
+INFO:NumberSorting:57 epoch training loss 1.552544
+INFO:NumberSorting:58 epoch training loss 1.799309
+INFO:NumberSorting:59 epoch training loss 1.911360
+INFO:NumberSorting:60 epoch training loss 1.781240
+INFO:NumberSorting:61 epoch training loss 1.538449
+INFO:NumberSorting:62 epoch training loss 1.513523
+INFO:NumberSorting:63 epoch training loss 1.665531
+INFO:NumberSorting:64 epoch training loss 2.025797
+INFO:NumberSorting:65 epoch training loss 1.663128
+INFO:NumberSorting:66 epoch training loss 2.080360
+INFO:NumberSorting:67 epoch training loss 1.981020
+INFO:NumberSorting:68 epoch training loss 1.820644
+INFO:NumberSorting:69 epoch training loss 1.450520
+INFO:NumberSorting:70 epoch training loss 1.368977
+INFO:NumberSorting:71 epoch training loss 1.622904
+INFO:NumberSorting:72 epoch training loss 1.845602
+INFO:NumberSorting:73 epoch training loss 1.938671
+INFO:NumberSorting:74 epoch training loss 1.661047
+INFO:NumberSorting:75 epoch training loss 1.564788
+INFO:NumberSorting:76 epoch training loss 2.427000
+INFO:NumberSorting:77 epoch training loss 1.792225
+INFO:NumberSorting:78 epoch training loss 2.412723
+INFO:NumberSorting:79 epoch training loss 2.370067
+INFO:NumberSorting:80 epoch training loss 2.230883
+INFO:NumberSorting:81 epoch training loss 1.638211
+INFO:NumberSorting:82 epoch training loss 1.572088
+INFO:NumberSorting:83 epoch training loss 2.029482
+INFO:NumberSorting:84 epoch training loss 1.685722
+INFO:NumberSorting:85 epoch training loss 1.775731
+INFO:NumberSorting:86 epoch training loss 1.888233
+INFO:NumberSorting:87 epoch training loss 2.169071
+INFO:NumberSorting:88 epoch training loss 2.428676
+INFO:NumberSorting:89 epoch training loss 2.092922
+INFO:NumberSorting:90 epoch training loss 3.280622
+INFO:NumberSorting:91 epoch training loss 2.337050
+INFO:NumberSorting:92 epoch training loss 1.704775
+INFO:NumberSorting:93 epoch training loss 2.495281
+INFO:NumberSorting:94 epoch training loss 3.164069
+INFO:NumberSorting:95 epoch training loss 1.490841
+INFO:NumberSorting:96 epoch training loss 2.302836
+INFO:NumberSorting:97 epoch training loss 1.612543
+INFO:NumberSorting:98 epoch training loss 2.447707
+INFO:NumberSorting:99 epoch training loss 2.308580
+INFO:NumberSorting:Namespace(tau=16, n_sink_iter=20, n_samples=16, n_numbers=64, train_seed=1, num_workers=8, lr=0.1, batch_size=27, epochs=100, hid_c=256, out_dir='log')
+INFO:NumberSorting:training
